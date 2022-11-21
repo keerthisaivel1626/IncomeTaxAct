@@ -1,0 +1,1602 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" class="ms-dialog ms-dialog-nr" lang="en-US"><head><meta name="GENERATOR" content="Microsoft SharePoint" /><meta http-equiv="Content-type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=10" /><meta http-equiv="Expires" content="0" /><meta name="msapplication-TileImage" content="/_layouts/15/images/SharePointMetroAppTile.png" /><meta name="msapplication-TileColor" content="#0072C6" /><title>
+	
+    Income Tax Department
+
+</title><link rel="shortcut icon" href="/_layouts/15/images/favicon.ico?rev=23" type="image/vnd.microsoft.icon" id="favicon" /><link rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/Themable/corev15.css?rev=ox%2BqLd6WTqhn6d%2FMqf2BMw%3D%3D" />
+<link rel="stylesheet" type="text/css" href="/_layouts/15/styles/dlgframe.css?rev=OsCCYe6sdbcosG3hTT%2Fq1w%3D%3D" />
+<script type="text/javascript" src="/_layouts/15/init.js?rev=%2FWTxr8UesytJ8GB%2F5hOwZA%3D%3D"></script>
+<script type="text/javascript" src="/_layouts/15/dit/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="/_layouts/15/dit/js/jquery.cookie.min.js?V19"></script>
+<script type="text/javascript" src="/_layouts/15/dit/js/taxman.iti.ui.core.min.js?V19"></script>
+<script type="text/javascript" src="/_layouts/15/dit/js/cmsContents.min.js?V19"></script>
+<script type="text/javascript" src="/_layouts/15/dit/js/taxman.iti.api.core.min.js?V19"></script>
+<script type="text/javascript" src="/_layouts/15/dit/js/jquery-accessibleMegaMenu.min.js?V19"></script>
+<script type="text/javascript" src="/_layouts/15/dit/js/jquery.iti.external.min.js?V19"></script>
+<script type="text/javascript" src="/_layouts/15/dit/js/keyboard.js?V19"></script>
+<script type="text/javascript" src="/_layouts/15/dit/js/taxman.iti.stats.core.min.js?V19"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=brTMT8VUBaYsznpd0IR7GdC331quE4ikOJZkbOTI1tybCCUd6ZJkrqCbE6FdU35MS1bHqjBcYi39iCxnMR2YLs7o92QpHyCvYvJADasU8yxhcM_7kcwDcF0TpOpefB9eJ5SIpnx38I27JTfzWkBnbbJ4NXgLyzhdUJeliDYLe_J8e67HgCztJWU9FhKt_-X70&amp;t=348b0da"></script>
+<script type="text/javascript" src="/_layouts/15/blank.js?rev=ZaOXZEobVwykPO9g8hq%2F8A%3D%3D"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=eccI9jLFY0ruCRg97fNzF-dkxYJzJ_eqmwCoTtgxNaorqEgPKUNMywbUKL0EtaXyyXHZT4pDN3VWNFNCPSM0c_Ii8A4AJMAkwMn-iH-dmm6GjI0UkLfusISZwuau7JkYlAaBhll9B9NlgvTjdyC1hvxr5dsCrCpxLe1BR0TNfywssGG635PW6JJIz7oXwk9h0&amp;t=348b0da"></script>
+<script type="text/javascript" src="/_layouts/15/sp.init.js?rev=3nSw25FIGbfepznMSgi74A%3D%3D"></script>
+<script type="text/javascript" src="/_layouts/15/ScriptResx.ashx?culture=en%2Dus&amp;name=SP%2ERes&amp;rev=yNk%2FhRzgBn40LJVP%2BqfgdQ%3D%3D"></script>
+<script type="text/javascript" src="/_layouts/15/sp.ui.dialog.js?rev=0xf6wCIW4E1pN83I9nSIJQ%3D%3D"></script>
+<script src="/_layouts/15/sp.runtime.js?rev=5f2WkYJoaxlIRdwUeg4WEg%3D%3D"></script>
+<script src="/_layouts/15/sp.js?rev=BZlBP%2Bn9Ja3uUvqzGXl8xw%3D%3D"></script>
+<script type="text/javascript">RegisterSod("initstrings.js", "\u002f_layouts\u002f15\u002f1033\u002finitstrings.js?rev=4Yrxyggg5knao3D48Ii\u00252FWA\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("strings.js", "\u002f_layouts\u002f15\u002f1033\u002fstrings.js?rev=u\u00252B0KcZWR52dtr8LTlqcZcw\u00253D\u00253D");RegisterSodDep("strings.js", "initstrings.js");</script>
+<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f15\u002fcore.js?rev=uA2xjCXmuYM5ARP8g3eTSA\u00253D\u00253D");RegisterSodDep("core.js", "strings.js");</script>
+<script type="text/javascript">RegisterSod("menu.js", "\u002f_layouts\u002f15\u002fmenu.js?rev=Yb\u00252FYo8qgTV4OUX0FEzTMog\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("mQuery.js", "\u002f_layouts\u002f15\u002fmquery.js?rev=VYAJYBo5H8I3gVSL3MzD6A\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("callout.js", "\u002f_layouts\u002f15\u002fcallout.js?rev=ryx2n4ePkYj1\u00252FALmcsXZfA\u00253D\u00253D");RegisterSodDep("callout.js", "strings.js");RegisterSodDep("callout.js", "mQuery.js");RegisterSodDep("callout.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("clienttemplates.js", "\u002f_layouts\u002f15\u002fclienttemplates.js?rev=Zv6bvcssV7dy3VrmkAWlSw\u00253D\u00253D");RegisterSodDep("clienttemplates.js", "initstrings.js");</script>
+<script type="text/javascript">RegisterSod("sharing.js", "\u002f_layouts\u002f15\u002fsharing.js?rev=EojJW\u00252FD7vytDfjPyrFWfzw\u00253D\u00253D");RegisterSodDep("sharing.js", "strings.js");RegisterSodDep("sharing.js", "mQuery.js");RegisterSodDep("sharing.js", "clienttemplates.js");RegisterSodDep("sharing.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("suitelinks.js", "\u002f_layouts\u002f15\u002fsuitelinks.js?rev=REwVU5jSsadDdOZlCx4wpA\u00253D\u00253D");RegisterSodDep("suitelinks.js", "strings.js");RegisterSodDep("suitelinks.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("clientrenderer.js", "\u002f_layouts\u002f15\u002fclientrenderer.js?rev=PWwV4FATEiOxN90BeB5Hzw\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("srch.resources.resx", "\u002f_layouts\u002f15\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=Srch\u00252EResources\u0026rev=T\u00252BEc8BFdsTQbQuVAobKatQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("search.clientcontrols.js", "\u002f_layouts\u002f15\u002fsearch.clientcontrols.js?rev=5P1PlD9u0nLal8ZgtuGr6w\u00253D\u00253D");RegisterSodDep("search.clientcontrols.js", "clientrenderer.js");RegisterSodDep("search.clientcontrols.js", "srch.resources.resx");</script>
+<script type="text/javascript">RegisterSod("sp.search.js", "\u002f_layouts\u002f15\u002fsp.search.js?rev=uZlrSmuyYGO8yQWFVg\u00252BIdw\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("ajaxtoolkit.js", "\u002f_layouts\u002f15\u002fajaxtoolkit.js?rev=4rOiCbaFgJMmqw9Ojtpa6g\u00253D\u00253D");RegisterSodDep("ajaxtoolkit.js", "search.clientcontrols.js");</script>
+<script type="text/javascript">RegisterSod("cui.js", "\u002f_layouts\u002f15\u002fcui.js?rev=hkelvuz\u00252BDyOYNl9FmpxUvA\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.core.js", "\u002f_layouts\u002f15\u002fsp.core.js?rev=b89b6nnwOk\u00252FeDkJa0KhP5w\u00253D\u00253D");RegisterSodDep("sp.core.js", "strings.js");RegisterSodDep("sp.core.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=JuQvHna5pA8GjBqyCrETww\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");</script>
+<script type="text/javascript">RegisterSod("ribbon", "\u002f_layouts\u002f15\u002fsp.ribbon.js?rev=d4Y4E0ghdo65Uz4tti0FZw\u00253D\u00253D");RegisterSodDep("ribbon", "strings.js");RegisterSodDep("ribbon", "core.js");RegisterSodDep("ribbon", "sp.core.js");RegisterSodDep("ribbon", "cui.js");RegisterSodDep("ribbon", "inplview");</script>
+<script type="text/javascript">RegisterSod("sp.ui.policy.resources.resx", "\u002f_layouts\u002f15\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EUI\u00252EPolicy\u00252EResources\u0026rev=wtVfoqgvnf2cuN894ZirvA\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("mdn.js", "\u002f_layouts\u002f15\u002fmdn.js?rev=CZrBt1\u00252Fch9YeLFLJtB0mvg\u00253D\u00253D");RegisterSodDep("mdn.js", "core.js");RegisterSodDep("mdn.js", "cui.js");RegisterSodDep("mdn.js", "ribbon");RegisterSodDep("mdn.js", "sp.ui.policy.resources.resx");</script>
+<script type="text/javascript">RegisterSod("userprofile", "\u002f_layouts\u002f15\u002fsp.userprofiles.js?rev=Pbfi3FBmvy2ewPqDZp16\u00252BQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("followingcommon.js", "\u002f_layouts\u002f15\u002ffollowingcommon.js?rev=sObFmln\u00252BGVrczIpXNeFRrg\u00253D\u00253D");RegisterSodDep("followingcommon.js", "strings.js");RegisterSodDep("followingcommon.js", "userprofile");RegisterSodDep("followingcommon.js", "core.js");RegisterSodDep("followingcommon.js", "mQuery.js");</script>
+<script type="text/javascript">RegisterSod("profilebrowserscriptres.resx", "\u002f_layouts\u002f15\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=ProfileBrowserScriptRes\u0026rev=J5HzNnB\u00252FO1Id\u00252FGI18rpRcw\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=Ua8qmZSU9nyf53S7PEyJwQ\u00253D\u00253D");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
+<script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fie55up.js?rev=0R4dbpInVlmjoVSw2Gglmw\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
+<script type="text/javascript">RegisterSod("offline.js", "\u002f_layouts\u002f15\u002foffline.js?rev=5NCDZdcT1qj5k8yEP01AKA\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("WPAdderClass", "\u002f_layouts\u002f15\u002fwpadder.js?rev=ApLnd\u00252BqIPjLXRfr1t\u00252BCxyQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("dragdrop.js", "\u002f_layouts\u002f15\u002fdragdrop.js?rev=znmXBqiryAnXwfCVj\u00252Fqe9A\u00253D\u00253D");RegisterSodDep("dragdrop.js", "strings.js");</script>
+<script type="text/javascript">RegisterSod("quicklaunch.js", "\u002f_layouts\u002f15\u002fquicklaunch.js?rev=SV6sY1PxQIso9KC9IL8e2Q\u00253D\u00253D");RegisterSodDep("quicklaunch.js", "strings.js");RegisterSodDep("quicklaunch.js", "dragdrop.js");</script>
+<link type="text/xml" rel="alternate" href="/_vti_bin/spsdisco.aspx" />
+		
+    
+    <link href="/_layouts/15/dit/styles/cmsStyles.min.css?V18" rel="stylesheet" />
+    <script type="text/javascript" src="/_layouts/15/dit/js/cmsContents.min.js?V18" defer="defer"></script>
+
+    <style type="text/css">  
+        c0 { background-color: yellow }      
+        .topbanner {
+            width: 440px;
+            height: 99px;
+            margin-left: 10px;
+            padding: 10px;
+            background: url(/Style%20Library/en-US/images/dit/logo-pop.png) left center no-repeat;            
+        }
+
+        .noResult {
+	        background: #F8F8F8;
+	        font-size: 12px;
+	        padding: 10px;
+	        font-weight: 700;
+	        text-align: center;
+	        margin: 10px 0;
+        }
+
+        .supersededBG {
+            background: url(/Style%20Library/en-US/images/dit/superseded-Img.png) center fixed repeat-y;
+            min-height: 400px;
+        }
+
+        .deletedBG {
+            background: url(/Style%20Library/en-US/images/dit/deleted-Img.png) center fixed repeat-y;
+            min-height: 400px;
+        }
+        .withdrawnBG {
+            background: url(/Style%20Library/en-US/images/dit/withdrawn-Img.png) center fixed repeat-y;
+            min-height: 400px;
+        }
+
+        .amendedBG {
+            background: url(/Style%20Library/en-US/images/dit/amended-Img.png) center fixed repeat-y;
+            min-height: 400px;
+        }
+
+        .substitutedBG {
+            background: url(/Style%20Library/en-US/images/dit/substituted-Img.png) center fixed repeat-y;
+            min-height: 400px;
+        }
+
+       .ms-dlgTitle {padding: 4px 19px 6px; white-space: nowrap; cursor: move; overflow: hidden; }
+
+        .tabbreadcrumb { padding:5px 0; height:25px; background:#f7f7f7; position:fixed; right:17px; top:0px; width:98.5%;   }
+        
+        
+       .OpenTab{float:right;display:inline-block;width:15px;height:17px;background:url(/_Layouts/15/images/dit/opentab.png) no-repeat 0 0; margin-left:10px; margin-right:11px; margin-top:4px;}
+		.clear {clear:both;}
+        #viewerContainer {margin-top:35px;}
+    </style>
+    <script type="text/javascript">
+        var myHilitor; // global variable
+        $(document).keydown(function (event) {
+            if (event.which == 27) {
+                SP.UI.ModalDialog.commonModalDialogClose(SP.UI.DialogResult.Cancel);
+            }
+        });
+
+        $(document).ready(function () {
+            $(window).focus();
+            //highlighting code
+            $('body').highlightViewer(GetUrlKeyValue("k", false, window.location.path));
+            //Below line removed on March 24, 2015 and added above line
+            //if (_spPageContextInfo.currentLanguage != "1033") {
+            //    //in hindi, search text converts into encoded, so taking from javascript itself
+            //    $('body').highlightViewer(GetUrlKeyValue("k", false, window.location.path));
+            //}
+            //else {
+            //    myHilitor = new Hilitor2("viewerContainer");
+            var searchText = '';
+            //    myHilitor.apply(searchText);
+            //}            
+            //hindi
+
+            $("a[href^='#fn'],a[href^='#frfn'],a[href^='#rfn'],a[href^='#rftn'],a[href^='#ftn']").each(function () {
+                $(this).attr({
+                    target: "_self",
+                    onclick: "javascript:void(0)"
+                });
+            });
+
+            $('#s4-workspace').attr('tabindex', '0');
+            $('#s4-workspace').focus();
+
+
+            $("a.OpenTab").click(function () {
+                var viewerURL = '';
+                var pageUrl = $("#TabData").text();
+                if (pageUrl.indexOf('IsDlg') &gt; 0) {
+                    viewerURL = pageUrl.replace('IsDlg=1', 'IsDlg=0');
+                }
+                else {
+                    viewerURL = pageUrl + "&amp;IsDlg=0";
+                }
+                var options = 'menubar=no,height=' + screen.height + ',width=' + screen.width + ',resizable=0,toolbars=no,menubar=no,fullscreen=yes';
+                //window.open(viewerURL, '_blank', options)
+                window.open(viewerURL, '_blank')
+                return false;
+            });
+
+            var dialog = GetParameterByName('IsDlg');
+            if (dialog !== 'undefined' &amp;&amp; dialog == '0') {
+                $("a.OpenTab").hide();
+            }
+
+            var winHeight = screen.height;
+            var tabHeight = $("div.tabbreadcrumb").height();
+            var otherAdjustment = 0;
+            if (dialog == '1') {
+                otherAdjustment = 270 + tabHeight;
+            }
+            else {
+                otherAdjustment = 170 + tabHeight;
+            }
+            $('.ifrmClass').height(winHeight - otherAdjustment);
+
+
+            $('a[href*="/Others/"]').each(function () {
+                var val = $(this).attr("href");
+                $(this).attr("href", "javascript:ShowOtherContent('" + val + "');");
+            });
+            $("#s4-bodyContainer, .wrapper, .rightContentContainer").css("width", "100%");
+
+
+            $('.ms-dlgTitle', window.parent.document).css('text-align', 'center');
+            $('.ms-dlgTitle', window.parent.document).css('background-color', 'lightblue');
+        });
+
+        //Jquery - Highlighter
+        jQuery.fn.highlightViewer = function (inputText) {
+            function innerHighlight(node, inputText) {
+                var skip = 0;
+                try {
+                    if (node.nodeType == 3) {
+                        inputText = inputText.replace(/-/g, ' '); //replace - with space(Income-Tax will be Income Tax)
+                        //inputText = inputText.replace(/[^a-z0-9\s]/gi, '').replace(/[_\s]/g, ' ');// Removes Special Characters
+                        inputText = inputText.replace(/[&amp;\/\\#,+()$~%.'":*?&lt;&gt;{}]/g, '');// Removes given Special Characters
+                        inputText = inputText.replace(/ +(?= )/g, '') // Removes Extra Spaces
+                        var inputArr = inputText.split(' ');
+                        inputArr.unshift(inputText);
+                        var outPut = '';
+                        $.each(inputArr, function (index, value) {
+                            pat = value;
+                            var pos = node.data.toUpperCase().indexOf(pat);
+                            if (pos &gt;= 0) {
+                                var spannode = document.createElement('c0');
+                                //spannode.className = 'highlight';
+                                var middlebit = node.splitText(pos);
+                                var endbit = middlebit.splitText(pat.length);
+                                var middleclone = middlebit.cloneNode(true);
+                                spannode.appendChild(middleclone);
+                                middlebit.parentNode.replaceChild(spannode, middlebit);
+                                skip = 1;
+                            }
+                        });
+                    }
+                    else if (node.nodeType == 1 &amp;&amp; node.childNodes &amp;&amp; !/(script|style)/i.test(node.tagName)) {
+                        for (var i = 0; i &lt; node.childNodes.length; ++i) {
+                            i += innerHighlight(node.childNodes[i], inputText);
+                        }
+                    }
+                }
+                catch (e) { }
+                return skip;
+            }
+            return this.length &amp;&amp; inputText &amp;&amp; inputText.length ? this.each(function () {
+                innerHighlight(this, inputText.toUpperCase());
+            }) : this;
+        };
+
+        jQuery.fn.removeHighlight = function () {
+            return this.find("c0").each(function () { //span.highlight changed to c0
+                this.parentNode.firstChild.nodeName;
+                with (this.parentNode) {
+                    replaceChild(this.firstChild, this);
+                    normalize();
+                }
+            }).end();
+        };
+
+        //New code to load page content by Ajax - Code End
+        
+        $(document).ready(function () {
+            LoadViewerContents();
+            SetWatermark();
+            var isDlg = GetParameterByName('IsDlg');
+            if (isDlg === '') {
+                self.close();
+            }
+        });
+        
+        function LoadViewerContents() {
+            var group = GetParameterByName('grp');
+            var cname = GetParameterByName('cname');
+            var cval = GetParameterByName('cval');
+            var opt = GetParameterByName('opt');
+            var searchText = GetParameterByName('k');
+            var filePath = GetParameterByName('path');            
+            var strSearchFilter = GetParameterByName('searchFilter');
+            var strOptionalFilter = GetParameterByName('optionalFilter');
+            var filterBy = GetParameterByName('filterBy');            
+            if (typeof strSearchFilter === 'undefined' || strSearchFilter === '')
+                strSearchFilter = '';
+
+            if (typeof cval !== 'undefined' &amp;&amp; cval.indexOf('-') &gt;= 0)
+                cval.replace(/-/g, ' ');
+
+            if (filePath !== 'undefined' &amp;&amp; filePath !== '')
+                LoadDataByFilePath(filePath, group, strSearchFilter, searchText);
+            else
+                LoadDataByCMSID(group, cname, cval, strSearchFilter, filterBy, strOptionalFilter, searchText);
+        }
+
+        //Load by CMSID from Viewer - Without Paging
+        //New code to load page content by Ajax - Code Start
+        function ShowMainContent(actType, columnName, columnValue, optionalParam, searchText) {
+            //optionalParam = escape('');
+            //var searchText = '';
+            ShowViewerLoader();
+            ShowCMSMainContent(actType, columnName, columnValue, optionalParam);            
+            ManageTabData('grp', columnValue, actType, optionalParam, searchText);
+            CheckDocumentRelation(columnValue, true);
+            //HideViewerLoader();
+            //$('body').highlightViewer(searchText);
+        }
+
+        //Load by CMSID - With Paging
+        //New code to load page content by Ajax - Code Start
+        function LoadDataByCMSID(actType, columnName, columnValue, strSearchFilter, filterBy, optionalParam, searchText) {
+            //var searchText = '';
+            //optionalParam = escape('');
+            ShowViewerLoader();
+            LoadCMSDataByCMSID(actType, columnName, columnValue, strSearchFilter, filterBy, optionalParam, searchText);            
+            ManageTabData('grp', columnValue, actType, strSearchFilter, searchText);
+            CheckDocumentRelation(columnValue, true);
+            //HideViewerLoader();
+            //$('body').highlightViewer(searchText);
+        }
+
+        //Load by URL - With Paging
+        function LoadDataByFilePath(fileUrl, strGroup, strSearchFilter, strSearchText) {
+            ShowViewerLoader();
+            LoadCMSDataByFilePath(fileUrl, strGroup, strSearchFilter, strSearchText);            
+            ManageTabData('path', fileUrl, strGroup, strSearchFilter, strSearchText);
+            //HideViewerLoader();
+            //$('body').highlightViewer(strSearchText);
+        }
+
+        function SetWatermark() {
+            var waterMark = 'viewerContent';
+            $("#dvHtmlContent").attr('class', waterMark);
+        }
+    </script>
+
+		<link rel="canonical" href="http://www.incometaxindia.gov.in:80/_layouts/15/dit/pages/viewer.aspx?grp=act&amp;cname=cmsid&amp;cval=102120000000058691&amp;k=undefined&amp;isdlg=0" />
+		
+	<style type="text/css">
+	.s4-skipribbonshortcut { display:none; }
+
+</style><script type="text/javascript" src="/_layouts/15/1033/initstrings.js?rev=4Yrxyggg5knao3D48Ii%2FWA%3D%3D"></script><script type="text/javascript" src="/_layouts/15/1033/strings.js?rev=u%2B0KcZWR52dtr8LTlqcZcw%3D%3D"></script><script type="text/javascript" src="/_layouts/15/core.js?rev=uA2xjCXmuYM5ARP8g3eTSA%3D%3D"></script></head>
+<body class=" ms-backgroundImage">
+  <div id="imgPrefetch" style="display:none">
+<img src="/_layouts/15/images/favicon.ico?rev=23" />
+<img src="/_layouts/15/images/spcommon.png?rev=23" />
+<img src="/Style%20Library/en-us/images/dit/logo.png?rev=23" />
+<img src="/_layouts/15/images/spcommon.png?rev=23" />
+</div>
+
+  <noscript>&lt;div class='noindex'&gt;You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page.&lt;/div&gt;</noscript>
+  
+  <form method="post" action="/_layouts/15/dit/Pages/viewer.aspx?grp=Act&amp;cname=CMSID&amp;cval=102120000000058691&amp;k=undefined&amp;IsDlg=0" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" />
+<input type="hidden" name="_maintainWorkspaceScrollPosition" id="_maintainWorkspaceScrollPosition" value="0" />
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xEAA7DA7A02F1757B1E225B8880D1AA6493233FE59560F832EB2CB12941D8355941A116F83560997CE6D072BE4698680A881043E61678B5E6CFE0EC8636123173,01 Jan 2017 13:48:56 -0000" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPBSpWU0tleTpjZWNiZDFiYy0yMzJmLTRiNzItODY1ZS0xNGFlMjMyZThkZDJkgHRqkOQjv8JS4djoFzNPn2/MK9Kj4Ro+8uXapGTFW/8=" />
+</div>
+
+<script type="text/javascript">
+//&lt;![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]&gt;
+</script>
+
+
+<script src="/WebResource.axd?d=0Zet5-ObcpDNZRFp_s2MssyrAE81xOJ3M19vNgNqzsEgefHNrPOfsEpuj1eRsu0ynEh9x0gLNMTLz7v0rM_pspIsbSOA4bONVOZUDX-6XM41&amp;t=635307537758913288" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//&lt;![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+var g_presenceEnabled = false;
+var g_wsaEnabled = false;
+var g_wsaQoSEnabled = false;
+var g_wsaQoSDataPoints = [];
+var g_wsaLCID = 1033;
+var g_wsaListTemplateId = null;
+var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webAbsoluteUrl: "http:\u002f\u002fwww.incometaxindia.gov.in", siteAbsoluteUrl: "http:\u002f\u002fwww.incometaxindia.gov.in", serverRequestPath: "\u002f_layouts\u002f15\u002fdit\u002fPages\u002fviewer.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Income Tax Department", webTemplate: "53", tenantAppVersion: "0", webLogoUrl: "\u002fStyle\u002520Library\u002fen-us\u002fimages\u002fdit\u002flogo.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-US", clientServerTimeDelta: new Date("2017-01-01T13:48:56.7540551Z") - new Date(), siteClientTag: "1996$$15.0.4569.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:200769}, pagePersonalizationScope:1, alertsEnabled:true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True'};var L_Menu_BaseUrl="";
+var L_Menu_LCID="1033";
+var L_Menu_SiteTheme="null";
+
+function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContext, type) {
+
+    CoreInvoke('ProcessDefaultNavigateHierarchy', nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002f_layouts\u002f15\u002fdit\u002fPages\u002fviewer.aspx");
+
+}
+var MSOWebPartPageFormName = 'aspnetForm';//]]&gt;
+</script>
+
+<script src="/ScriptResource.axd?d=lopQ85xPuRvVlWoxJXcx7IA8DHE7H0AlgFHBzkYEMIiuisyLQcJvJios2SuRgIF7jtoqgjvXZVdROBEtswP9_aZr0Obn66-iBCnus-Rx9bBYtrKRrdKLuYQc7hLDvRFIzb9ejgPOgUSCsJKK7atH_5iD4XKkGJA-DPUQquucTU01&amp;t=fffffffff284add6" type="text/javascript"></script>
+<script src="/_layouts/15/blank.js?rev=ZaOXZEobVwykPO9g8hq%2F8A%3D%3D" type="text/javascript"></script>
+<script type="text/javascript">
+//&lt;![CDATA[
+(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+
+            if (typeof(SPClientTemplates) === 'undefined' || SPClientTemplates === null || (typeof(APD_InAssetPicker) === 'function' &amp;&amp; APD_InAssetPicker())) {
+                return;
+            }
+
+            var renderFollowFooter = function(renderCtx,  calloutActionMenu)
+            {
+                if (renderCtx.ListTemplateType == 700) 
+                    myDocsActionsMenuPopulator(renderCtx, calloutActionMenu);
+                else
+                    CalloutOnPostRenderTemplate(renderCtx, calloutActionMenu);
+
+                var listItem = renderCtx.CurrentItem;
+                if (typeof(listItem) === 'undefined' || listItem === null) {
+                    return;
+                }
+                if (listItem.FSObjType == 0) {
+                    calloutActionMenu.addAction(new CalloutAction({
+                        text: Strings.STS.L_CalloutFollowAction,
+                        tooltip: Strings.STS.L_CalloutFollowAction_Tooltip,
+                        onClickCallback: function (calloutActionClickEvent, calloutAction) {
+                            var callout = GetCalloutFromRenderCtx(renderCtx);
+                            if (!(typeof(callout) === 'undefined' || callout === null))
+                                callout.close();
+                            SP.SOD.executeFunc('followingcommon.js', 'FollowSelectedDocument', function() { FollowSelectedDocument(renderCtx); });
+                        }
+                    }));
+                }
+            };
+
+            var registerOverride = function(id) {
+                var followingOverridePostRenderCtx = {};
+                followingOverridePostRenderCtx.BaseViewID = 'Callout';
+                followingOverridePostRenderCtx.ListTemplateType = id;
+                followingOverridePostRenderCtx.Templates = {};
+                followingOverridePostRenderCtx.Templates.Footer = function(renderCtx) {
+                    var  renderECB;
+                    if (typeof(isSharedWithMeView) === 'undefined' || isSharedWithMeView === null) {
+                        renderECB = true;
+                    } else {
+                        var viewCtx = getViewCtxFromCalloutCtx(renderCtx);
+                        renderECB = !isSharedWithMeView(viewCtx);
+                    }
+                    return CalloutRenderFooterTemplate(renderCtx, renderFollowFooter, renderECB);
+                };
+                SPClientTemplates.TemplateManager.RegisterTemplateOverrides(followingOverridePostRenderCtx);
+            }
+            registerOverride(101);
+            registerOverride(700);
+        });
+    })();(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() 
+        {
+          ExecuteOrDelayUntilScriptLoaded(
+            function()
+            {
+              var pairs = SP.ScriptHelpers.getDocumentQueryPairs();
+              var followDoc, itemId, listId, docName;
+              for (var key in pairs)
+              {
+                if(key.toLowerCase() == 'followdocument') 
+                  followDoc = pairs[key];
+                else if(key.toLowerCase() == 'itemid') 
+                  itemId = pairs[key];
+                else if(key.toLowerCase() == 'listid') 
+                  listId = pairs[key];
+                else if(key.toLowerCase() == 'docname') 
+                  docName = decodeURI(pairs[key]);
+              } 
+
+              if(followDoc != null &amp;&amp; followDoc == '1' &amp;&amp; listId!=null &amp;&amp; itemId != null &amp;&amp; docName != null)
+              {
+                SP.SOD.executeFunc('followingcommon.js', 'FollowDocumentFromEmail', function() 
+                { 
+                  FollowDocumentFromEmail(itemId, listId, docName);
+                });
+              }
+
+            }, 'SP.init.js');
+
+        });
+    })();if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();function WebForm_OnSubmit() {
+
+                    var workspaceElem = GetCachedElement("s4-workspace");
+                    if (workspaceElem != null)
+                    {
+                        var scrollElem = GetCachedElement("_maintainWorkspaceScrollPosition");
+                        if (scrollElem != null)
+                        {
+                            scrollElem.value = workspaceElem.scrollTop;
+                        }
+                    };
+                if (typeof(ValidatorOnSubmit) == "function" &amp;&amp; ValidatorOnSubmit() == false) return false;UpdateFormDigest('\u002f', 1440000);if (typeof(_spFormOnSubmitWrapper) != 'undefined') {return _spFormOnSubmitWrapper();} else {return true;};
+return true;
+}
+//]]&gt;
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAArizD5yrmYIe4guLKGGPesHMTZk9qLGncDjImqxppn1M/Qm+JljIFWrYcHTDus63FcQjc4u6R0/T5OapN95DdpX8jcPk7k/y5FjTB6UOssH+1XPsKeJLPlmV/g3U37ZQRy3sq4bAXiegGXZiAiDvfELoib07R98Dm0QcWKmq+X+pI6KoCAt66PLcO5itbDsCm04Dw+iMvXGwBccQ1pgA7n/i4lsIJd9EJDk4tThjj12yOUQBjdvaNtnH9Z0q/Q7VZ8=" />
+</div>
+	<script type="text/javascript"> var submitHook = function () { return false; }; theForm._spOldSubmit = theForm.submit; theForm.submit = function () { if (!submitHook()) { this._spOldSubmit(); } }; </script>
+	<span id="DeltaSPWebPartManager">
+		
+	</span>
+	<script type="text/javascript">
+//&lt;![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm', ['fctl00$WebPartAdderUpdatePanel','','tctl00$PlaceHolderMain$MailerControl$UpdatePanel1',''], [], ['ctl00$WebPartAdder',''], 90, 'ctl00');
+//]]&gt;
+</script>
+
+	<span id="DeltaDelegateControls">
+		
+		
+	</span>
+<div id="TurnOnAccessibility" class="s4-notdlg noindex">
+	<a id="linkTurnOnAcc" href="#" class="ms-accessible ms-acc-button" onclick="SetIsAccessibilityFeatureEnabled(true);UpdateAccessibilityUI();document.getElementById('linkTurnOffAcc').focus();return false;">Turn on more accessible mode</a>
+</div>
+<div id="TurnOffAccessibility" style="display:none" class="s4-notdlg noindex">
+	<a id="linkTurnOffAcc" href="#" class="ms-accessible ms-acc-button" onclick="SetIsAccessibilityFeatureEnabled(false);UpdateAccessibilityUI();document.getElementById('linkTurnOnAcc').focus();return false;">Turn off more accessible mode</a>
+</div>
+<div class="s4-notdlg s4-skipribbonshortcut noindex">
+	<a href="javascript:;" onclick="document.getElementById('startNavigation').focus();" class="ms-accessible ms-acc-button" accesskey="Y">Skip Ribbon Commands</a>
+</div>
+<div class="s4-notdlg noindex">
+	<a href="javascript:;" onclick="document.getElementById('mainContent').focus();" class="ms-accessible ms-acc-button">Skip to main content</a>
+</div>
+<div id="TurnOffAnimation" class="s4-notdlg noindex">
+	<a id="linkTurnOffAnimation" href="#" class="ms-accessible ms-acc-button" onclick="ToggleAnimationStatus();return false;">Turn off Animations</a>
+</div>
+<div id="TurnOnAnimation" style="display:none;" class="s4-notdlg noindex">
+	<a id="linkTurnOnAnimation" href="#" class="ms-accessible ms-acc-button" onclick="ToggleAnimationStatus();return false;">Turn on Animations</a>
+</div>
+<a id="HiddenAnchor" href="javascript:;" style="display:none;"></a>
+<div id="suiteBar" class="ms-dialogHidden noindex">
+	<div id="suiteBarLeft">
+		<div class="ms-table ms-fullWidth">
+			<div class="ms-tableRow">
+				<div class="ms-tableCell ms-verticalAlignMiddle">
+					
+				</div>
+				<div id="DeltaSuiteLinks" class="ms-core-deltaSuiteLinks">
+	
+						<div id="suiteLinksBox">
+							
+						</div>
+				
+</div>
+			</div>
+		</div>
+	</div>
+	<div id="suiteBarRight">
+		<div id="DeltaSuiteBarRight" class="ms-core-deltaSuiteBarRight">
+	
+				<div id="welcomeMenuBox">
+  
+<a id="ctl00_IdWelcome_ExplicitLogin" class="ms-signInLink" href="http://www.incometaxindia.gov.in/_layouts/15/Authenticate.aspx?Source=%2F%5Flayouts%2F15%2Fdit%2FPages%2Fviewer%2Easpx%3Fgrp%3DAct%26cname%3DCMSID%26cval%3D102120000000058691%26k%3Dundefined%26IsDlg%3D0" style="display:inline-block;">Sign In</a>
+
+				</div>
+				<div id="suiteBarButtons">
+					   <span class="ms-siteactions-root" id="siteactiontd">
+					   
+						
+						<span style="display:none"><menu type="ServerMenu" id="zz1_SiteActionsMenuMain" hideicons="true"><ie:menuitem id="zz2_MenuItem_ViewAllSiteContents" type="option" iconsrc="/_layouts/15/images/allcontent32.png?rev=23" onmenuclick="STSNavigate2(event,'/_layouts/15/viewlsts.aspx');" text="Site contents" description="View all libraries and lists in this site." menugroupid="200"></ie:menuitem>
+	</menu></span><span id="zz3_SiteActionsMenu_t" class="ms-siteactions-normal" title="Settings" onmouseover="MMU_PopMenuIfShowing(this);MMU_EcbTableMouseOverOut(this, true)" hoveractive="ms-siteactions-normal ms-siteactions-hover" hoverinactive="ms-siteactions-normal" onclick=" CoreInvoke('MMU_Open',byid('zz1_SiteActionsMenuMain'), MMU_GetMenuFromClientId('zz3_SiteActionsMenu'),event,true, null, 0); return false;" foa="MMU_GetMenuFromClientId('zz3_SiteActionsMenu')" oncontextmenu="ClkElmt(this); return false;"><a class="ms-core-menu-root" id="zz3_SiteActionsMenu" accesskey="/" href="javascript:;" title="Settings" onkeydown="MMU_EcbLinkOnKeyDown(byid('zz1_SiteActionsMenuMain'), MMU_GetMenuFromClientId('zz3_SiteActionsMenu'));" menutokenvalues="MENUCLIENTID=zz3_SiteActionsMenu,TEMPLATECLIENTID=zz1_SiteActionsMenuMain" serverclientid="zz3_SiteActionsMenu"><span class="ms-siteactions-imgspan"><img class="ms-core-menu-buttonIcon" src="/_layouts/15/images/spcommon.png?rev=23" alt="Settings" title="Settings" /></span><span class="ms-accessible">Use SHIFT+ENTER to open the menu (new window).</span></a></span></span>
+<span id="ms-help">
+	<a onmouseover="this.firstChild.firstChild.firstChild.style.left='-1px'; this.firstChild.firstChild.firstChild.style.top='-1px';" onmouseout="this.firstChild.firstChild.firstChild.style.left='-19px'; this.firstChild.firstChild.firstChild.style.top='-1px';" id="ctl00_TopHelpLink" accesskey="6" title="Help" onclick="TopHelpButtonClick('HelpHome',event);return false" href="../../../../_catalogs/masterpage/#" style="display:inline-block;height:30px;width:30px;"><span style="display:inline-block;overflow:hidden;height:16px;width:16px;padding-left:7px;padding-top:7px;padding-right:7px;padding-bottom:7px;"><span style="height:16px;width:16px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust"><img src="/_layouts/15/1033/images/spintl.png?rev=23" alt="Help" style="border:0;position:absolute;left:-19px;top:-1px;" /></span></span></a>
+</span>
+				</div>
+		
+</div>
+	</div>
+</div>
+		<div id="ms-hcTest"></div>
+		<div id="s4-ribbonrow" style="height: 0px;">
+		<div id="globalNavBox" class="noindex">
+<div id="ribbonBox">
+	<div id="s4-ribboncont">
+		<div id="DeltaSPRibbon">
+	
+			
+
+			<div class="ms-cui-ribbonTopBars"><div class="ms-cui-topBar1"></div><div class="ms-cui-topBar2"><div id="RibbonContainer-TabRowLeft" class="ms-cui-TabRowLeft ms-core-defaultFont ms-dialogHidden">
+				</div><div id="RibbonContainer-TabRowRight" class="ms-cui-TabRowRight s4-trc-container s4-notdlg ms-core-defaultFont">
+					
+					<a onmouseover="this.firstChild.firstChild.style.left='-217px'; this.firstChild.firstChild.style.top='-192px';" onmouseout="this.firstChild.firstChild.style.left='-218px'; this.firstChild.firstChild.style.top='-48px';" onclick="SP.SOD.executeFunc('followingcommon.js', 'FollowSite', function() { FollowSite(); }); return false;" id="site_follow_button" title="Follow this site and get back to it easily from your sites page." class="ms-promotedActionButton" href="javascript:__doPostBack('ctl00$site_follow_button','')" style="display:inline-block;"><span style="height:16px;width:16px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust ms-promotedActionButton-icon"><img src="/_layouts/15/images/spcommon.png?rev=23" alt="Follow" style="position:absolute;left:-218px;top:-48px;" /></span><span class="ms-promotedActionButton-text">Follow</span></a>
+					
+					
+<span id="fullscreenmodebox" class="ms-qatbutton">
+	<span id="fullscreenmode">
+		<a onmouseover="this.firstChild.firstChild.firstChild.style.left='-125px'; this.firstChild.firstChild.firstChild.style.top='-178px';" onmouseout="this.firstChild.firstChild.firstChild.style.left='-143px'; this.firstChild.firstChild.firstChild.style.top='-178px';" id="ctl00_fullscreenmodeBtn" title="Focus on Content" onclick="SetFullScreenMode(true);PreventDefaultNavigation();return false;" href="../../../../_catalogs/masterpage/#" style="display:inline-block;height:30px;width:30px;"><span style="display:inline-block;overflow:hidden;height:16px;width:16px;padding-left:7px;padding-top:7px;padding-right:7px;padding-bottom:7px;"><span style="height:16px;width:16px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust"><img src="/_layouts/15/images/spcommon.png?rev=23" alt="Focus on Content" style="border:0;position:absolute;left:-143px;top:-178px;" /></span></span></a>
+	</span>
+	<span id="exitfullscreenmode" style="display: none;">
+		<a onmouseover="this.firstChild.firstChild.firstChild.style.left='-179px'; this.firstChild.firstChild.firstChild.style.top='-96px';" onmouseout="this.firstChild.firstChild.firstChild.style.left='-107px'; this.firstChild.firstChild.firstChild.style.top='-178px';" id="ctl00_exitfullscreenmodeBtn" title="Focus on Content" onclick="SetFullScreenMode(false);PreventDefaultNavigation();return false;" href="../../../../_catalogs/masterpage/#" style="display:inline-block;height:30px;width:30px;"><span style="display:inline-block;overflow:hidden;height:16px;width:16px;padding-left:7px;padding-top:7px;padding-right:7px;padding-bottom:7px;"><span style="height:16px;width:16px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust"><img src="/_layouts/15/images/spcommon.png?rev=23" alt="Focus on Content" style="border:0;position:absolute;left:-107px;top:-178px;" /></span></span></a>
+	</span>
+</span>
+
+
+				</div></div></div>
+		
+</div>
+	</div>
+	<span id="DeltaSPNavigation">
+		
+			<span id="ctl00_SPNavigation_ctl00_publishingRibbon"></span>
+
+		
+	</span>
+</div>
+<div id="DeltaWebPartAdderUpdatePanelContainer" class="ms-core-webpartadder" style="top: 0px;">
+	
+  <div id="WebPartAdderUpdatePanelContainer">
+	<div id="ctl00_WebPartAdderUpdatePanel">
+		
+		<span id="ctl00_WebPartAdder"></span>
+	  
+	</div>
+  </div>
+
+</div>
+		</div>
+		</div>
+		<div id="s4-workspace" class="ms-core-overlay" tabindex="0" style="height: 682px; width: 1050px;">
+		<div id="s4-bodyContainer" style="width: 100%;">
+		<div id="s4-titlerow" class="ms-dialogHidden " style="display: block;">
+		<div id="titleAreaBox" class="ms-noList ms-table ms-core-tableNoSpace">
+		<div id="titleAreaRow" class="ms-tableRow">
+<div id="siteIcon" class="ms-tableCell ms-verticalAlignTop">
+	<div id="DeltaSiteLogo">
+	
+		<a id="ctl00_onetidProjectPropertyTitleGraphic" title="Income Tax Department" class="ms-siteicon-a" href="/"><img id="ctl00_onetidHeadbnnr2" class="ms-siteicon-img" name="onetidHeadbnnr0" src="/Style%20Library/en-us/images/dit/logo.png" alt="Income Tax Department" /></a>
+	
+</div>
+</div>
+			<div class="ms-breadcrumb-box ms-tableCell ms-verticalAlignTop">
+				<div class="ms-breadcrumb-top">
+<div class="ms-breadcrumb-dropdownBox" style="display:none;">
+<span id="DeltaBreadcrumbDropdown">
+	
+</span>
+</div>
+<div id="DeltaTopNavigation" class="ms-displayInline ms-core-navigation" role="navigation">
+	
+	
+	
+		<div id="zz4_TopNavigationMenu" class=" noindex ms-core-listMenu-horizontalBox">
+		<ul id="zz5_RootAspMenu" class="root ms-core-listMenu-root static">
+			<li class="static selected"><a class="static selected menu-item ms-core-listMenu-item ms-displayInline ms-core-listMenu-selected ms-navedit-linkNode" tabindex="0" title="Home" href="/Pages/default.aspx" accesskey="1"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Income Tax Department</span><span class="ms-hidden">Currently selected</span></span></a><ul class="static">
+				<li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/Pages/indian-fatal-accidents-act.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Tax Laws &amp; Rules &gt; Acts &gt; Indian Fatal Accidents Act, 1855</span></span></a></li>
+			</ul></li>
+		</ul>
+	</div>
+	
+
+</div>
+				</div>
+<h1 id="pageTitle" class="ms-core-pageTitle">
+  <span id="DeltaPlaceHolderPageTitleInTitleArea">
+	
+
+  </span>
+  <div id="DeltaPlaceHolderPageDescription" class="ms-displayInlineBlock ms-normalWrap">
+	
+	<a href="javascript:;" id="ms-pageDescriptionDiv" style="display:none;">
+	  <span id="ms-pageDescriptionImage"> </span>
+	</a>
+	<span class="ms-accessible" id="ms-pageDescription">
+	  
+	</span>
+	<script type="text/javascript">// &lt;![CDATA[ 
+
+
+	  _spBodyOnLoadFunctionNames.push("setupPageDescriptionCallout");
+	// ]]&gt;
+</script>
+  
+</div>
+</h1>
+			</div>
+			<div class="ms-tableCell ms-verticalAlignTop">
+<div id="DeltaPlaceHolderSearchArea" class="ms-mpSearchBox ms-floatRight">
+	
+  
+	<div id="searchInputBox">
+	  <div class="ms-webpart-chrome ms-webpart-chrome-fullWidth ">
+		<div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ1" width="100%" class="ms-WPBody " onlyformepart="true" allowdelete="false" style=""><div componentid="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr" id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr"><div id="SearchBox" name="Control"><div class="ms-srch-sb ms-srch-sb-border" id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sboxdiv"><input type="text" value="undefined" maxlength="2048" accesskey="S" title="Search..." id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sbox" autocomplete="off" autocorrect="off" onkeypress="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {if (Srch.U.isEnterKey(String.fromCharCode(event.keyCode))) {$find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr').search($get('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sbox').value);return Srch.U.cancelEvent(event);}})" onkeydown="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {var ctl = $find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr');ctl.activateDefaultQuerySuggestionBehavior();})" onfocus="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {var ctl = $find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr');ctl.hidePrompt();ctl.setBorder(true);})" onblur="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {var ctl = $find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr'); if (ctl){ ctl.showPrompt(); ctl.setBorder(false);}})" class="ms-textSmall " /><a title="Search" class="ms-srch-sb-searchLink" id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_SearchLink" onclick="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {$find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr').search($get('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sbox').value);})" href="javascript: {}"><img src="/_layouts/15/images/searchresultui.png?rev=23" class="ms-srch-sb-searchImg" id="searchImg" alt="Search" /></a><div class="ms-qSuggest-container ms-shadow" id="AutoCompContainer"><div id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_AutoCompList"></div></div></div></div></div><noscript>&lt;div id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_noscript"&gt;It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.&lt;/div&gt;</noscript><div id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1">
+
+		</div><div class="ms-clear"></div></div>
+	</div>
+	</div>
+  
+
+</div>
+			</div>
+		</div>
+		</div>
+		</div>
+		<div id="contentRow">
+<div id="sideNavBox" class="ms-dialogHidden ms-forceWrap ms-noList">
+  <div id="DeltaPlaceHolderLeftNavBar" class="ms-core-navigation" role="navigation">
+	
+	
+				<a id="startNavigation" name="startNavigation" tabindex="-1"></a>
+				
+				
+				
+				
+				
+				<div class="ms-core-sideNavBox-removeLeftMargin">
+				<div id="ctl00_PlaceHolderLeftNavBar_QuickLaunchNavigationManager">
+		
+					
+					<div id="zz6_V4QuickLaunchMenu" class=" noindex ms-core-listMenu-verticalBox">
+			<ul id="zz7_RootAspMenu" class="root ms-core-listMenu-root static">
+				<li class="static"><span class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Recent</span></span></span><ul class="static">
+					<li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/Publicity Video/Forms/Thumbnails.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Publicity Video</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/Lists/CCA Details/AllItems.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">CCA Details</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/Lists/Latest News/AllItems.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Latest News</span></span></a></li>
+				</ul></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/Lists/Related Document Linking/AllItems.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Related Document Linking</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/Publicity Campaign/Forms/Thumbnails.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Publicity Campaign</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/Pages/indian-fatal-accidents-act.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Tax Laws &amp; Rules &gt; Acts &gt; Indian Fatal Accidents Act, 1855</span></span></a></li>
+			</ul>
+		</div>
+				
+	</div>
+					
+				
+					<div class="ms-core-listMenu-verticalBox">
+						<a id="ctl00_PlaceHolderLeftNavBar_PlaceHolderQuickLaunchBottom_idNavLinkViewAll" accesskey="3" class="ms-core-listMenu-item ms-core-listMenu-heading" href="/_layouts/15/viewlsts.aspx"><span class="ms-splinkbutton-text">Site Contents</span></a>
+					</div>
+				
+				</div>
+	
+  
+</div>
+</div>
+<div id="contentBox" aria-live="polite" aria-relevant="all">
+  <div id="notificationArea" class="ms-notif-box"></div>
+	<div id="DeltaPageStatusBar">
+	
+		<div id="pageStatusBar"></div>
+	
+</div>
+	<div id="DeltaPlaceHolderMain">
+	
+		<a id="mainContent" name="mainContent" tabindex="-1"></a>
+		
+    <div id="overlaybx_page" style="display: none;"></div>
+	<div class="loading" id="divViewerProgresBar" style="display: none;"></div>
+
+     
+     <div style="display:none" id="TabData">http://www.incometaxindia.gov.in/_layouts/15/dit/Pages/viewer.aspx?grp=Act&amp;cname=CMSID&amp;cval=102120000000058691&amp;searchFilter=&amp;k=<c0>undefined</c0>&amp;IsDlg=1</div>
+        
+    <div class="tabbreadcrumb" style="position: fixed;">
+        <a class="OpenTab" href="javascript:void(0);" style="display: none;">
+           
+        </a>
+        <div class="breadcrumb">            
+            <div id="dvControlsBar" class="breadcrumb-icons breadicons">
+                <div id="ctl00_PlaceHolderMain_HeadingContainer" class="openheading">                
+                <h3 id="divActHeading" class="viewerActHeading">Fourth Schedule, Income-tax Act, 1961-2016</h3>
+            </div>      
+                <ul>  
+                               
+                    <li>
+                        <a href="javascript:void(0)" onclick="sendMail();" class="linkIcons iconEmail" title="Send mail"></a>
+                    </li>
+                    <li>
+                        <a href="javascript:printViewerDocument('viewerContainer', '', 'en-US', 'Income Tax Department')" title="Print this page" class="linkIcons printPage"></a>
+                    </li>
+                    
+                    <li class="ViewerPager">
+                        <a id="ViewerPreviousButton" class="file_viewer_pre disable"> Previous </a>  
+                        <a id="ViewerNextButton" class="file_viewer_next disable"> Next </a>
+                    </li>                   
+                </ul>
+                
+                
+
+<script type="text/javascript">
+    function FillHiddenBeforeSubmit() {
+        try {
+            $("#ctl00_PlaceHolderMain_MailerControl_hddnInnerHtml").val($('#mainComparisonDiv').html());
+            $("#ctl00_PlaceHolderMain_MailerControl_hddnFilePath").val($('#lblFilePath').html());            
+        }
+        catch (e) { }
+        return true;
+    }
+    </script>
+
+<div id="ctl00_PlaceHolderMain_MailerControl_UpdatePanel1">
+		
+        <div id="divSendMail" class="sendMailBlock">
+            <table>
+                <tbody><tr>
+                    <td colspan="2">
+                        <div style="display:none" class="clsFilePath" id="lblFilePath">http://www.incometaxindia.gov.in/acts/income-tax%20act,%201961/2016/102120000000058691.htm/</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="ctl00_PlaceHolderMain_MailerControl_txtTo" id="ctl00_PlaceHolderMain_MailerControl_lbTo" style="font-weight:bold;">To Email</label>
+                        <span class="required">*</span>
+                    </td>
+                    <td>
+                        <input name="ctl00$PlaceHolderMain$MailerControl$txtTo" type="text" id="ctl00_PlaceHolderMain_MailerControl_txtTo" style="width: 235px" /><br />
+                        <span id="ctl00_PlaceHolderMain_MailerControl_rfvtxtTo" title="Please Enter Receiver Email." class="errorText" style="display:none;">Please Enter Receiver Email.</span>
+                        <span id="ctl00_PlaceHolderMain_MailerControl_revtxtEmail" title="Please Enter valid Email." class="errorText" style="display:none;">Please Enter valid Email.</span>
+                    </td>                         
+                </tr>
+                <tr>
+                    <td>
+                        <label for="ctl00_PlaceHolderMain_MailerControl_txtName" id="ctl00_PlaceHolderMain_MailerControl_lbName" style="font-weight:bold;">Your Name</label>
+                        <span class="required">*</span>
+                    </td>
+                    <td>
+                        <input name="ctl00$PlaceHolderMain$MailerControl$txtName" type="text" id="ctl00_PlaceHolderMain_MailerControl_txtName" style="width: 235px" /><br />
+                        <span id="ctl00_PlaceHolderMain_MailerControl_rfvYourName" title="Please Enter your Name." class="errorText" style="display:none;">Please Enter your Name.</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="ctl00_PlaceHolderMain_MailerControl_txtSenderEmail" id="ctl00_PlaceHolderMain_MailerControl_lbSenderEmail" style="font-weight:bold;">Your Email</label>
+                        <span class="required">*</span>
+                    </td>
+                    <td>
+                        <input name="ctl00$PlaceHolderMain$MailerControl$txtSenderEmail" type="text" id="ctl00_PlaceHolderMain_MailerControl_txtSenderEmail" style="width: 235px" /><br />
+                        <span id="ctl00_PlaceHolderMain_MailerControl_RequiredFieldValidator1" title="Please Enter your Email." class="errorText" style="display:none;">Please Enter your Email.</span>
+                        <span id="ctl00_PlaceHolderMain_MailerControl_RegularExpressionValidator1" title="Please Enter valid Email." class="errorText" style="display:none;">Please Enter valid Email.</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="ctl00_PlaceHolderMain_MailerControl_txtDescription" id="ctl00_PlaceHolderMain_MailerControl_lbDescription" style="font-weight:bold;">Message</label>
+                    </td>
+                    <td>
+                        <textarea name="ctl00$PlaceHolderMain$MailerControl$txtDescription" rows="2" cols="20" id="ctl00_PlaceHolderMain_MailerControl_txtDescription" style="height:165px;width:235px;"></textarea>
+
+                    </td>
+                </tr>
+                <tr>
+                    <td> </td>
+                    <td>
+                        <input type="submit" name="ctl00$PlaceHolderMain$MailerControl$btnSendMail" value="Send" onclick="FillHiddenBeforeSubmit();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$PlaceHolderMain$MailerControl$btnSendMail&quot;, &quot;&quot;, true, &quot;SendMailValidation&quot;, &quot;&quot;, false, false))" id="ctl00_PlaceHolderMain_MailerControl_btnSendMail" class="btn_submit" />
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+        <input type="hidden" name="ctl00$PlaceHolderMain$MailerControl$hddnInnerHtml" id="ctl00_PlaceHolderMain_MailerControl_hddnInnerHtml" />
+        <input type="hidden" name="ctl00$PlaceHolderMain$MailerControl$hddnFilePath" id="ctl00_PlaceHolderMain_MailerControl_hddnFilePath" />
+    
+	</div>
+               
+            </div>
+            
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div id="viewerContainer">
+        <!--Related Doc Links-->
+        <div id="overlaybx_relatedDoc"></div>
+        <div class="related_doc_bx viewer_popup" id="related_doc_bx"></div>
+        
+        <!--Related Doc Links-->
+        <div id="dvHtmlContent" class="viewerContent" visible="true">
+
+
+<p class="tx" style="text-align: center"><i><b>THE FOURTH SCHEDULE</b></i></p>
+<p class="tx" style="text-align: center"><i><b>PART A</b></i></p>
+<p class="tx" style="text-align: center">RECOGNISED PROVIDENT FUNDS<sup><a href="javascript:ShowFootnote('ftn36_sch_4');">36</a></sup></p>
+<p class="tx" style="text-align: center">[<i>See</i> <a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058016', '');">sections 2(<i>38</i>)</a>, 
+<a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058740', '');">10(<i>12</i>)</a>, <a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058740', '');">10(<i>25</i>)</a>, 
+<a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058083', '');">36(1)(<i>iv</i>)</a>, <sup>
+<a href="javascript:ShowFootnote('ftn37_sch_4');">37</a> </sup><a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058225', '');">87(1)(<i>d</i>)</a>, 
+<a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058255', '');">111</a>, <a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058589', '');">192(4)</a>]</p>
+<p class="tx"><b>Application of Part.</b></p>
+<p class="tx"><b>1. </b>This Part shall not apply to any provident fund to which the Provident Funds Act, 1925 (19 of 1925), applies.</p>
+<p class="tx"><b>Definitions.</b></p>
+<p class="tx"><b>2. </b>In this Part, unless the context otherwise requires,—</p>
+<p class="indent1">(<i>a</i>)	"employer" means any person who maintains a provident fund for the benefit of his or its employees, being—</p>
+<p class="indent2">  (<i>i</i>)	a Hindu undivided family, company, firm or other association of persons, or</p>
+<p class="indent2"> (<i>ii</i>)	an individual engaged in a business or profession the profits and gains whereof are assessable to income-tax under the head "Profits and gains of business or profession";</p>
+<p class="indent1">(<i>b</i>)	"employee" means an employee participating in a provident fund, but does not include a personal or domestic servant;</p>
+<p class="indent1">(<i>c</i>)	"contribution" means any sum credited by or on behalf of any employee out of his salary, or by an employer out of his own moneys, to the individual account of an employee, but does not include any sum credited as interest;</p>
+<p class="indent1">(<i>d</i>)	"balance to the credit of an employee" means the total amount to the credit of his individual account in a provident fund at any time;</p>
+<p class="indent1">(<i>e</i>)	"annual accretion", in relation to the balance to the credit of an employee, means the increase to such balance in any year, arising from contributions and interest;</p>
+<p class="indent1">(<i>f</i>)	"accumulated balance due to an employee" means the balance to his credit, or such portion thereof as may be claimable by him under the regulations of the fund, on the day he ceases to be an employee of the employer maintaining the fund;</p>
+<p class="indent1">(<i>g</i>)	"regulations of a fund" means the special body of regulations governing the constitution and administration of a particular provident fund; and</p>
+<p class="indent1">(<i>h</i>)	"salary" includes dearness allowance, if the terms of employment so provide, but excludes all other allowances and perquisites.</p>
+<p class="tx"><b>According and withdrawal of recognition.</b></p>
+<p class="tx"><b>3.</b>	(1) The <sup><a href="javascript:ShowFootnote('ftn38_sch_4');">38</a></sup>[Principal Chief Commissioner or] Chief Commissioner or <sup>
+<a href="javascript:ShowFootnote('ftn38_sch_4');">38</a></sup>[Principal Commissioner or] Commissioner may accord recognition to any provident fund which, in his opinion, satisfies the conditions prescribed in rule 4 and the rules made by the Board in this behalf, and may, at any time, withdraw such recognition if, in his opinion, the provident fund contravenes any of those conditions :</p>
+<p class="tx"><b>Provided</b> that in a case where recognition has been accorded to any provident fund on or before the 31st day of March, 2006 and such provident fund does not satisfy the conditions set out in clause (<i>ea</i>) of rule 4, the recognition to such fund shall be withdrawn, if such fund does not satisfy, on or before the 31st day of March, 2014, the conditions set out in the said clause and any other condition which the Board may, by rules specify, in this behalf :</p>
+<p class="tx"><b>Provided further </b>that nothing contained in the first proviso shall apply to the provident fund of an establishment in respect of which a notification has been issued by the Central Government under sub-section (2) of section 16 of the Employees' Provident Funds and Miscellaneous Provisions Act, 1952 (19 of 1952).</p>
+<p class="tx">(2) An order according recognition shall take effect on such date as the <sup>
+<a href="javascript:ShowFootnote('ftn39_sch_4');">39</a></sup>[Principal Chief Commissioner or] Chief Commissioner or <sup>
+<a href="javascript:ShowFootnote('ftn39_sch_4');">39</a></sup>[Principal Commissioner or] Commissioner may fix in accordance with any rules the Board may make in this behalf, such date not being later than the last day of the financial year in which the order is made.</p>
+<p class="tx">(3) An order withdrawing recognition shall take effect from the date on which it is made.</p>
+<p class="tx">(4) An order according recognition to a provident fund shall not, unless the <sup>
+<a href="javascript:ShowFootnote('ftn39_sch_4');">39</a></sup>[Principal Chief Commissioner or] Chief Commissioner or <sup>
+<a href="javascript:ShowFootnote('ftn39_sch_4');">39</a></sup>[Principal Commissioner or] Commissioner otherwise directs, be affected by the fact that the fund is subsequently amalgamated with another provident fund on the occurrence of an amalgamation of the undertakings in connection with which the two funds are maintained, or that it subsequently absorbs the whole or a part of another provident fund belonging to an undertaking which is wholly or in part transferred to or merged in the undertaking of the employer maintaining the first-mentioned fund.</p>
+<p class="tx"><b>Conditions to be satisfied by recognised provident funds.</b></p>
+<p class="tx"><b>4. </b>In order that a provident fund may receive and retain recognition, it shall, subject to the provisions of rule 5, satisfy the conditions set out below and any other conditions which the Board may, by rules, specify—</p>
+<p class="indent1">(<i>a</i>)	all employees shall be employed in India, or shall be employed by an employer whose principal place of business is in India;</p>
+<p class="indent1">(<i>b</i>)	the contributions of an employee in any year shall be a definite proportion of his salary for that year, and shall be deducted by the employer from the employee's salary in that proportion, at each periodical payment of such salary in that year, and credited to the employee's individual account in the fund;</p>
+<p class="indent1">(<i>c</i>)	the contributions of an employer to the individual account of an employee in any year shall not exceed the amount of the contributions of the employee in that year, and shall be credited to the employee's individual account at intervals not exceeding one year;</p>
+<p class="indent1">(<i>d</i>)	the fund shall be vested in two or more trustees or in the Official Trustee under a trust which shall not be revocable, save with the consent of all the beneficiaries;</p>
+<p class="indent1">(<i>e</i>)	the fund shall consist of contributions as above specified, received by the trustees, of accumulations thereof, and of interest credited in respect of such contributions and accumulations, and of securities purchased therewith and of any capital gains arising from the transfer of capital assets of the fund, and of no other sums;</p>
+<p class="indent1" style="text-indent: -8mm">(<i>ea</i>)	the fund shall be a fund of an establishment to which the provisions of sub-section (3) of section 1 of the Employees' Provident Funds and Miscellaneous Provisions Act, 1952 (19 of 1952) apply or of an establishment which has been notified by the Central Provident Fund Commissioner under sub-section (4) of section 1 of the said Act, and such establishment shall obtain exemption under section 17 of the said Act from the operation of all or any of the provisions of any scheme referred to in that section;</p>
+<p class="indent1">(<i>f</i>)	the employer shall not be entitled to recover any sum whatsoever from the fund, save in cases where the employee is dismissed for misconduct or voluntarily leaves his employment otherwise than on account of ill-health or other unavoidable cause before the expiration of the term of service specified in this behalf in the regulations of the fund :</p>
+<p class="indent1" style="text-indent: 0"><b>Provided</b> that in such cases the recoveries made by the employer shall be limited to the contributions made by him to the individual account of the employee, and to interest credited in respect of such contributions in accordance with the regulations of the fund and the accumulations thereof;</p>
+<p class="indent1">(<i>g</i>)	the accumulated balance due to an employee shall be payable on the day he ceases to be an employee of the employer maintaining the fund;</p>
+<p class="indent1">(<i>h</i>)	save as provided in clause (<i>g</i>) or in accordance with such conditions and restrictions as the Board may, by rules, specify, no portion of the balance to the credit of an employee shall be payable to him.</p>
+<p class="tx"><b>Relaxation of conditions.</b></p>
+<p class="tx"><b>5. </b>(1) Notwithstanding anything contained in clause (<i>a</i>) of rule 4, the <sup>
+<a href="javascript:ShowFootnote('ftn40_sch_4');">40</a></sup>[Principal Chief Commissioner or] Chief Commissioner or <sup>
+<a href="javascript:ShowFootnote('ftn40_sch_4');">40</a></sup>[Principal Commissioner or] Commissioner may, if he thinks fit and subject to such conditions, if any, as he thinks proper to attach to the recognition, accord recognition to a fund maintained by an employer whose principal place of business is not in India, provided the proportion of employees employed outside India does not exceed ten per cent.</p>
+<p class="tx">(2) Notwithstanding anything contained in clause (<i>b</i>) of rule 4, an employee who retains his employment while serving in the armed forces of the Union or when taken into or employed in the national service under any law for the time being in force, may, whether he receives from the employer any salary or not, contribute to the fund during his service in the armed forces of the Union or while so taken into or employed in the national service a sum not exceeding the amount he would have contributed had he continued to serve the employer.</p>
+<p class="tx">(3) Notwithstanding anything contained in clause (<i>e</i>) or clause (<i>g</i>) of rule 4,—</p>
+<p class="indent1">(<i>a</i>)	at the request made in writing by the employee who ceases to be an employee of the employer maintaining the fund, the trustees of the fund may consent to retain the whole or any part of the accumulated balance due to the employee to be drawn by him at any time on demand;</p>
+<p class="indent1">(<i>b</i>)	where the accumulated balance due to an employee who has ceased to be an employee is retained in the fund in accordance with the preceding clause, the fund may consist also of interest in respect of such accumulated balance;</p>
+<p class="tx"> (<i>c</i>)	the fund may also consist of any amount transferred from the individual account of an employee in any recognised provident fund maintained by his former employer and the interest in respect thereof.</p>
+<p class="tx">(4) Subject to any rules<sup><a href="javascript:ShowFootnote('ftn41_sch_4');">41</a></sup> which the Board may make in this behalf, the <sup>
+<a href="javascript:ShowFootnote('ftn42_sch_4');">42</a></sup>[Principal Chief Commissioner or] Chief Commissioner or <sup>
+<a href="javascript:ShowFootnote('ftn42_sch_4');">42</a></sup>[Principal Commissioner or] Commissioner may, in respect of any particular fund, relax the provisions of clause (<i>c</i>) of rule 4,—</p>
+<p class="indent1">(<i>a</i>)	so as to permit the payment of larger contributions by an employer to the individual accounts of employees whose salaries do not in each case exceed five hundred rupees per mensem; and</p>
+<p class="indent1">(<i>b</i>)	so as to permit the crediting by employers to the individual accounts of employees of periodical bonuses or other contributions of a contingent nature, where the calculation and payment of such bonuses or other contributions is provided for on definite principles by the regulations of the fund.</p>
+<p class="tx">(5) Notwithstanding anything contained in clause (<i>h</i>) of rule 4, in order to enable an employee to pay the amount of tax assessed on his total income as determined under sub-rule (4) of rule 11, he shall be entitled to withdraw from the balance to his credit in the recognised provident fund a sum not exceeding the difference between such amount and the amount to which he would have been assessed if the transferred balance referred to in sub-rule (2) of rule 11 had not been included in his total income.</p>
+<p class="tx"><b>Employer's annual contributions, when deemed to be income received by employee.</b></p>
+<p class="tx"><b>6. </b>That portion of the annual accretion in any previous year to the balance at the credit of an employee participating in a recognised provident fund as consists of—</p>
+<p class="indent1">(<i>a</i>)	contributions made by the employer in excess of twelve per cent of the salary of the employee, and</p>
+<p class="indent1">(<i>b</i>)	interest credited on the balance to the credit of the employee in so far as it is allowed at a rate exceeding such rate as may be fixed by the Central Government in this behalf by notification in the Official Gazette,</p>
+<p class="tx">shall be deemed to have been received by the employee in that previous year and shall be included in his total income for that previous year, and shall be liable to income-tax.</p>
+<p class="tx"><b>Exemption for employee's contributions.</b></p>
+<p class="tx"><b>7. </b>An employee participating in a recognised provident fund shall, in respect of his own contributions to his individual account in the fund in the previous year, be entitled to a deduction in the computation of his total income of an amount determined in accordance with 
+<a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058176', '');">section 80C</a>.</p>
+<p class="tx"><b>Exclusion from total income of accumulated balance.</b></p>
+<p class="tx"><b>8. </b>The accumulated balance due and becoming payable to an employee participating in a recognised provident fund shall be excluded from the computation of his total income—</p>
+<p class="indent1">  (<i>i</i>)	if he has rendered continuous service with his employer for a period of five years or more, or</p>
+<p class="indent1"> (<i>ii</i>)	if, though he has not rendered such continuous service, the service has been terminated by reason of the employee's ill-health, or by the contraction or discontinuance of the employer's business or other cause beyond the control of the employee, or</p>
+<p class="indent1">(<i>iii</i>)	if, on the cessation of his employment, the employee obtains employment with any other employer, to the extent the accumulated balance due and becoming payable to him is transferred to his individual account in any recognised provident fund maintained by such other employer; <sup>
+<a href="javascript:ShowFootnote('ftn43_sch_4');">43</a></sup><b>[</b><i>or</i><b>]</b></p>
+<p class="indent1" style="text-indent: 0"><b>Following clause (<i>iv</i>) shall be inserted after clause (<i>iii</i>) of rule 8 of Part A of the Fourth Schedule by the Finance Act, 2016, w.e.f. 1-4-2017 :</b></p>
+<p class="indent1"><i>(</i>iv<i>)	if the entire balance standing to the credit of the employee is transferred to his account under a pension scheme referred to in 
+<a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058180', '');">section 80CCD</a> and notified by the Central Government.</i></p>
+<p class="tx"><i>Explanation.</i>—Where the accumulated balance due and becoming payable to an employee participating in a recognised provident fund maintained by his employer includes any amount transferred from his individual account in any other recognised provident fund or funds maintained by his former employer or employers, then, in computing the period of continuous service for the purposes of clause (<i>i</i>) or clause (<i>ii</i>) the period or periods for which such employee rendered continuous service under his former employer or employers aforesaid shall be included.</p>
+<p class="tx"><b>Tax on accumulated balance.</b></p>
+<p class="tx"><b>9. </b>(1) Where the accumulated balance due to an employee participating in a recognised provident fund is included in his total income owing to the provisions of rule 8 not being applicable, the Assessing Officer shall calculate the total of the various sums of tax which would have been payable by the employee in respect of his total income for each of the years concerned if the fund had not been a recognised provident fund, and the amount by which such total exceeds the total of all sums paid by or on behalf of such employee by way of tax for such years shall be payable by the employee in addition to any other tax for which he may be liable for the previous year in which the accumulated balance due to him becomes payable.</p>
+<p class="tx">(2) Where the accumulated balance due to an employee participating in a recognised provident fund which is not included in his total income under the provisions of rule 8 becomes payable, an amount equal to the aggregate of the amounts of super-tax on annual accretions that would have been payable under section 58E of the Indian Income-tax Act, 1922 (11 of 1922), for any assessment year up to and including the assessment year 1932-33, if the Indian Income-tax (Second Amendment) Act, 1933 (18 of 1933), had come into force on the 15th day of March, 1930, shall be payable by the employee in addition to any other tax payable by him for the previous year in which such balance becomes payable.</p>
+<p class="tx"><b>Deduction at source of tax payable on accumulated balance.</b></p>
+<p class="tx"><b>10. </b>The trustees of a recognised provident fund, or any person authorised by the regulations of the fund to make payment of accumulated balances due to employees, shall, in cases where sub-rule (1) of rule 9 applies, at the time an accumulated balance due to an employee is paid, deduct therefrom the amount payable under that rule and all the provisions of Chapter XVII-B shall apply as if the accumulated balance were income chargeable under the head "Salaries".</p>
+<p class="tx"><b>Treatment of balance in newly recognised provident fund.</b></p>
+<p class="tx"><b>11. </b>(1) Where recognition is accorded to a provident fund with existing balances, an account shall be made of the fund up to the day immediately preceding the day on which the recognition takes effect, showing the balance to the credit of each employee on such day, and containing such further particulars as the Board may prescribe.</p>
+<p class="tx">(2) The account shall also show in respect of the balance to the credit of each employee the amount thereof which is to be transferred to that employee's account in the recognised provident fund, and such amount (hereinafter called his transferred balance) shall be shown as the balance to his credit in the recognised provident fund on the date on which the recognition of the fund takes effect, and sub-rule (4) of this rule and sub-rule (5) of rule 5 shall apply thereto.</p>
+<p class="tx">(3) Any portion of the balance to the credit of an employee in the existing fund which is not transferred to the recognised fund shall be excluded from the accounts of the recognised fund and shall be liable to income-tax in accordance with the provisions of this Act, other than this Part.</p>
+<p class="tx">(4) Subject to such rules as the Board may make in this behalf, the Assessing Officer shall make a calculation of the aggregate of all sums comprised in a transferred balance which would have been liable to income-tax if this Part had been in force from the date of the institution of the fund, without regard to any tax which may have been paid on any sum, and such aggregate (if any) shall be deemed to be income received by the employee in the previous year in which the recognition of the fund takes effect and shall be included in the employee's total income for that previous year, and, for the purposes of assessment, the remainder of the transferred balance shall be disregarded, but no other exemption or relief, by way of refund or otherwise, shall be granted in respect of any sum comprised in such transferred balance :</p>
+<p class="tx"><b>Provided</b> that, in cases of serious accounting difficulty, the <sup>
+<a href="javascript:ShowFootnote('ftn44_sch_4');">44</a></sup>[Principal Chief Commissioner or] Chief Commissioner or <sup>
+<a href="javascript:ShowFootnote('ftn44_sch_4');">44</a></sup>[Principal Commissioner or] Commissioner may, subject to the said rules, make a summary calculation of such aggregate.</p>
+<p class="tx">(5) Nothing in this rule shall affect the rights of the persons administering an unrecognised provident fund or dealing with it, or with the balance to the credit of any individual employee before recognition is accorded, in any manner which may be lawful.</p>
+<p class="tx"><b>Accounts of recognised provident funds.</b></p>
+<p class="tx"><b>12. </b>(1) The accounts of a recognised provident fund shall be maintained by the trustees of the fund and shall be in such form and for such periods, and shall contain such particulars, as the Board may prescribe.</p>
+<p class="tx">(2) The accounts shall be open to inspection at all reasonable times by income-tax authorities, and the trustees shall furnish to the Assessing Officer such abstracts thereof as the Board may prescribe.</p>
+<p class="tx"><b>Appeals.</b></p>
+<p class="tx"><b>13. </b>(1) An employer objecting to an order of the <sup>
+<a href="javascript:ShowFootnote('ftn45_sch_4');">45</a></sup>[Principal Chief Commissioner or] Chief Commissioner or <sup>
+<a href="javascript:ShowFootnote('ftn45_sch_4');">45</a></sup>[Principal Commissioner or] Commissioner refusing to recognise or an order withdrawing recognition from a provident fund may appeal, within sixty days of such order, to the Board.</p>
+<p class="tx">(2) The appeal shall be in such form and shall be verified in such manner and shall be subject to the payment of such fee as the Board may prescribe.</p>
+<p class="tx"><b>Treatment of fund transferred by employer to trustee.</b></p>
+<p class="tx"><b>14. </b>(1) Where an employer, who maintains a provident fund (whether recognised or not) for the benefit of his employees and has not transferred the fund or any portion of it, transfers such fund or portion to trustees in trust for the employees participating in the fund, the amount so transferred shall be deemed to be of the nature of capital expenditure.</p>
+<p class="tx">(2) When an employee participating in such fund is paid the accumulated balance due to him therefrom, any portion of such balance as represents his share in the amount so transferred to the trustees (without addition of interest, and exclusive of the employee's contributions and interest thereon) shall, if the employer has made effective arrangements to secure that tax shall be deducted at source from the amount of such share when paid to the employee, be deemed to be an expenditure by the employer within the meaning of 
+<a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058084', '');">section 37</a>, incurred in the previous year in which the accumulated balance due to the employee is paid.</p>
+<p class="tx"><sup><a href="javascript:ShowFootnote('ftn46_sch_4');">46</a></sup><b>Provisions relating to rules.</b></p>
+<p class="tx"><b>15. </b>(1) In addition to any power conferred by this Part, the Board may make rules—</p>
+<p class="indent1">(<i>a</i>)	prescribing the statements and other information to be submitted along with an application for recognition;</p>
+<p class="indent1">(<i>b</i>)	limiting the contributions to a recognised provident fund by employees of a company who are shareholders in the company;</p>
+<p class="indent1" style="text-indent: -9mm">(<i>bb</i>)	regulating the investment or deposit of the moneys of a recognised provident fund :</p>
+<p class="indent1" style="text-indent: 0"><b>Provided</b> that no rule made under this clause shall require the investment of more than fifty per cent of the moneys of such fund in Government securities as defined in section 2 of the Public Debt Act, 1944 (18 of 1944);</p>
+<p class="indent1">(<i>c</i>)	providing for the assessment by way of penalty of any consideration received by an employee for an assignment of, or creation of a charge upon, his beneficial interest in a recognised provident fund;</p>
+<p class="indent1">(<i>d</i>)	determining the extent to and the manner in which exemption from payment of tax may be granted in respect of contributions and interest credited to the individual accounts of employees in a provident fund from which recognition has been withdrawn; and</p>
+<p class="indent1">(<i>e</i>)	generally, to carry out the purposes of this Part and to secure such further control over the recognition of provident funds and the administration of recognised provident funds as it may deem requisite.</p>
+<p class="tx">(2) All rules made under this Part shall be subject to the provisions of 
+<a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058684', '');">section 296</a>.</p>
+<p class="tx" style="text-align: center"><i><b>PART B</b></i></p>
+<p class="tx" style="text-align: center">APPROVED SUPERANNUATION FUNDS<sup><a href="javascript:ShowFootnote('ftn47_sch_4');">47</a></sup></p>
+<p class="tx" style="text-align: center">[<i>See</i> <a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058016', '');">sections 2(<i>6</i>)</a>, 
+<a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058740', '');">10(<i>13</i>)</a>, <a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058740', '');">10(<i>25</i>)(<i>iii</i>)</a>, 
+<a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058083', '');">36(1)(<i>iv</i>)</a>, <sup>
+<a href="javascript:ShowFootnote('ftn48_sch_4');">48</a> </sup><a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058225', '');">87(1)(<i>e</i>)</a>, 
+<a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058589', '');">192(5)</a>, <a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058724', '');">206</a>]</p>
+<p class="tx"><b>Definitions.</b></p>
+<p class="tx"><b>1. </b>In this Part, unless the context otherwise requires, "employer", "employee", "contribution" and "salary" have, in relation to superannuation funds, the meanings assigned to those expressions in rule 2 of Part A in relation to provident funds.</p>
+<p class="tx"><b>Approval and withdrawal of approval.</b></p>
+<p class="tx"><b>2. </b>(1) The <sup><a href="javascript:ShowFootnote('ftn49_sch_4');">49</a></sup>[Principal Chief Commissioner or] Chief Commissioner or <sup>
+<a href="javascript:ShowFootnote('ftn49_sch_4');">49</a></sup>[Principal Commissioner or] Commissioner may accord approval to any superannuation fund or any part of a superannuation fund which, in his opinion, complies with the requirements of rule 3, and may at any time withdraw such approval, if, in his opinion, the circumstances of the fund or part cease to warrant the continuance of the approval.</p>
+<p class="tx">(2) The <sup><a href="javascript:ShowFootnote('ftn49_sch_4');">49</a></sup>[Principal Chief Commissioner or] Chief Commissioner or <sup>
+<a href="javascript:ShowFootnote('ftn49_sch_4');">49</a></sup>[Principal Commissioner or] Commissioner shall communicate in writing to the trustees of the fund the grant of approval with the date on which the approval is to take effect, and, where the approval is granted subject to conditions, those conditions.</p>
+<p class="tx">(3) The <sup><a href="javascript:ShowFootnote('ftn49_sch_4');">49</a></sup>[Principal Chief Commissioner or] Chief Commissioner or <sup>
+<a href="javascript:ShowFootnote('ftn49_sch_4');">49</a></sup>[Principal Commissioner or] Commissioner shall communicate in writing to the trustees of the fund any withdrawal of approval with the reasons for such withdrawal and the date on which the withdrawal is to take effect.</p>
+<p class="tx">(4) The <sup><a href="javascript:ShowFootnote('ftn49_sch_4');">49</a></sup>[Principal Chief Commissioner or] Chief Commissioner or <sup>
+<a href="javascript:ShowFootnote('ftn49_sch_4');">49</a></sup>[Principal Commissioner or] Commissioner shall neither refuse nor withdraw approval to any superannuation fund or any part of a superannuation fund unless he has given the trustees of that fund a reasonable opportunity of being heard in the matter.</p>
+<p class="tx"><b>Conditions for approval.</b></p>
+<p class="tx"><b>3. </b>In order that a superannuation fund may receive and retain approval, it shall satisfy the conditions set out below and any other conditions which the Board may, by rules, prescribe—</p>
+<p class="indent1"> (<i>a</i>)	the fund shall be a fund established under an irrevocable trust in connection with a trade or undertaking carried on in India, and not less than ninety per cent of the employees shall be employed in India;</p>
+<p class="indent1">(<i>b</i>)	the fund shall have for its sole purpose the provision of annuities for employees in the trade or undertaking on their retirement at or after a specified age or on their becoming incapacitated prior to such retirement, or for the widows, children or dependants of persons who are or have been such employees on the death of those persons ;</p>
+<p class="indent1">(<i>c</i>)	the employer in the trade or undertaking shall be a contributor to the fund ; and</p>
+<p class="indent1">(<i>d</i>)	all annuities, pensions and other benefits granted from the fund shall be payable only in India.</p>
+<p class="tx"><b>Application for approval.</b></p>
+<p class="tx"><b>4. </b>(1) An application for approval of a superannuation fund or part of a superannuation fund shall be made in writing by the trustees of the fund to the Assessing Officer by whom the employer is assessable, and shall be accompanied by a copy of the instrument under which the fund is established and by two copies of the rules and, where the fund has been in existence during any year or years prior to the financial year in which the application for approval is made, also two copies of the accounts of the fund relating to such prior year or years (not being more than three years immediately preceding the year in which the said application is made) for which such accounts have been made up, but the <sup>
+<a href="javascript:ShowFootnote('ftn50_sch_4');">50</a></sup>[Principal Chief Commissioner or] Chief Commissioner or <sup>
+<a href="javascript:ShowFootnote('ftn50_sch_4');">50</a></sup>[Principal Commissioner or] Commissioner may require such further information to be supplied as he thinks proper.</p>
+<p class="tx">(2) If any alteration in the rules, constitution, objects or conditions of the fund is made at any time after the date of the application for approval, the trustees of the fund shall forthwith communicate such alteration to the Assessing Officer mentioned in sub-rule (1), and in default of such communication any approval given shall, unless the <sup>
+<a href="javascript:ShowFootnote('ftn51_sch_4');">51</a></sup>[Principal Chief Commissioner or] Chief Commissioner or <sup>
+<a href="javascript:ShowFootnote('ftn51_sch_4');">51</a></sup>[Principal Commissioner or] Commissioner otherwise orders, be deemed to have been withdrawn from the date on which the alteration took effect.</p>
+<p class="tx"><b>Contributions by employer when deemed to be income of employer.</b></p>
+<p class="tx"><b>5. </b>Where any contributions by an employer (including the interest thereon, if any) are repaid to the employer, the amount so repaid shall be deemed for the purpose of income-tax to be the income of the employer of the previous year in which it is so repaid.</p>
+<p class="tx"><b>Deduction of tax on contributions paid to an employee.</b></p>
+<p class="tx"><sup><a href="javascript:ShowFootnote('ftn52_sch_4');">52</a></sup><b>6. </b>Where any contributions made by an employer, including interest on contributions, if any, are paid to an employee during his lifetime in circumstances other than those referred to in clause (<i>13</i>) of 
+<a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058740', '');">section 10</a>, tax on the amounts so paid shall be deducted at the average rate of tax at which the employee was liable to tax during the preceding three years or during the period, if less than three years, when he was a member of the fund, and shall be paid by the trustees to the credit of the Central Government within the prescribed time and in such manner as the Board may direct.</p>
+<p class="tx"><b>Deduction from pay of and contributions on behalf of employee to be included in return.</b></p>
+<p class="tx"><b>7. </b>Where an employer deducts from the emoluments paid to an employee or pays on his behalf any contributions of that employee to an approved superannuation fund, he shall include all such deductions or payments in the return which he is required to furnish under 
+<a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058724', '');">section 206</a>.</p>
+<p class="tx"><b>Appeals.</b></p>
+<p class="tx"><b>8. </b>(1) An employer objecting to an order of the <sup>
+<a href="javascript:ShowFootnote('ftn53_sch_4');">53</a></sup>[Principal Chief Commissioner or] Chief Commissioner or <sup>
+<a href="javascript:ShowFootnote('ftn53_sch_4');">53</a></sup>[Principal Commissioner or] Commissioner refusing to accord approval to a superannuation fund or an order withdrawing such approval may appeal, within sixty days of such order, to the Board.</p>
+<p class="tx">(2) The appeal shall be in such form and shall be verified in such manner and shall be subject to the payment of such fee as may be prescribed.<sup><a href="javascript:ShowFootnote('ftn54_sch_4');">54</a></sup></p>
+<p class="tx"><b>Liability of trustees on cessation of approval.</b></p>
+<p class="tx"><b>9. </b>If a fund or a part of a fund for any reason ceases to be an approved superannuation fund, the trustees of the fund shall nevertheless remain liable to tax on any sum paid on account of returned contributions (including interest on contributions, if any), insofar as the sum so paid is in respect of contributions made before the fund or part of the fund ceased to be an approved superannuation fund under the provisions of this Part.</p>
+<p class="tx"><b>Particulars to be furnished in respect of superannuation funds.</b></p>
+<p class="tx"><b>10. </b>The trustees of an approved superannuation fund and any employer who contributes to an approved superannuation fund shall, when required by notice from the Assessing Officer, within such period, not being less than twenty-one days from the date of the notice, as may be specified in the notice, furnish such return, statement, particulars or information, as the Assessing Officer may require.</p>
+<p class="tx"><b>Provisions relating to rules.</b></p>
+<p class="tx"><b>11. </b>(1) In addition to any power conferred by this Part, the Board may make rules—</p>
+<p class="indent1">(<i>a</i>)	prescribing the statements and other information to be submitted along with an application for approval ;</p>
+<p class="indent1">(<i>b</i>)	prescribing the returns, statements, particulars, or information which the Assessing Officer may require from the trustees of an approved superannuation fund or from the employer;</p>
+<p class="indent1">(<i>c</i>)	limiting the ordinary annual contribution and any other contributions to an approved superannuation fund by an employer ;</p>
+<p class="indent1">(<i>cc</i>)	regulating the investment or deposit of the moneys of an approved superannuation fund :</p>
+<p class="indent1" style="text-indent: 0"><b>Provided</b> that no rule made under this clause shall require the investment of more than fifty per cent of the moneys of such fund in Government securities as defined in section 2 of the Public Debt Act, 1944 (18 of 1944) ;</p>
+<p class="indent1">(<i>d</i>)	providing for the assessment by way of penalty of any consideration received by an employee for an assignment of, or creation of a charge upon, his beneficial interest in an approved superannuation fund ;</p>
+<p class="indent1">(<i>e</i>)	determining the extent to, and the manner in, which exemption from payment of tax may be granted in respect of any payment made from a superannuation fund from which approval has been withdrawn ;</p>
+<p class="indent1">(<i>f</i>)	providing for the withdrawal of approval in the case of a fund which ceases to satisfy the requirements of this Part or of the rules made thereunder ; and</p>
+<p class="indent1">(<i>g</i>)	generally, to carry out the purposes of this Part and to secure such further control over the approval of the superannuation funds and the administration of approved superannuation funds as it may deem requisite.</p>
+<p class="tx">(2) All rules made under this Part shall be subject to the provisions of 
+<a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058684', '');">section 296</a>.</p>
+<p class="tx" style="text-align: center"><i><b>PART C</b></i></p>
+<p class="tx" style="text-align: center">APPROVED GRATUITY FUND<sup><a href="javascript:ShowFootnote('ftn55_sch_4');">55</a></sup></p>
+<p class="tx" style="text-align: center">[<i>See</i> <a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058016', '');">sections 2(<i>5</i>)</a>, 
+<a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058740', '');">10(<i>25</i>)(<i>iv</i>)</a>, <a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058040', '');">17(<i>1</i>)(<i>iii</i>)</a>, 
+<a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058083', '');">36(1)(<i>v</i>)</a>]</p>
+<p class="tx"><b>Definitions.</b></p>
+<p class="tx"><b>1. </b>In this Part, unless the context otherwise requires "employer", "employee", "contribution" and "salary" have, in relation to gratuity funds, the meanings assigned to those expressions in rule 2 of Part A in relation to provident funds.</p>
+<p class="tx"><b>Approval and withdrawal of approval.</b></p>
+<p class="tx"><b>2.</b>	(1) The <sup><a href="javascript:ShowFootnote('ftn56_sch_4');">56</a></sup>[Principal Chief Commissioner or] Chief Commissioner or <sup>
+<a href="javascript:ShowFootnote('ftn56_sch_4');">56</a></sup>[Principal Commissioner or] Commissioner may accord approval to any gratuity fund which, in his opinion, complies with the requirements of rule 3 and may at any time withdraw such approval if, in his opinion, the circumstances of the fund cease to warrant the continuance of the approval.</p>
+<p class="tx">(2) The <sup><a href="javascript:ShowFootnote('ftn57_sch_4');">57</a></sup>[Principal Chief Commissioner or] Chief Commissioner or <sup>
+<a href="javascript:ShowFootnote('ftn57_sch_4');">57</a></sup>[Principal Commissioner or] Commissioner shall communicate in writing to the trustees of the fund the grant of approval with the date on which the approval is to take effect and where the approval is granted subject to conditions, those conditions.</p>
+<p class="tx">(3) The <sup><a href="javascript:ShowFootnote('ftn57_sch_4');">57</a></sup>[Principal Chief Commissioner or] Chief Commissioner or <sup>
+<a href="javascript:ShowFootnote('ftn57_sch_4');">57</a></sup>[Principal Commissioner or] Commissioner shall communicate in writing to the trustees of the fund any withdrawal of approval with the reasons for such withdrawal and the date on which the withdrawal is to take effect.</p>
+<p class="tx">(4) The <sup><a href="javascript:ShowFootnote('ftn57_sch_4');">57</a></sup>[Principal Chief Commissioner or] Chief Commissioner or <sup>
+<a href="javascript:ShowFootnote('ftn57_sch_4');">57</a></sup>[Principal Commissioner or] Commissioner shall neither refuse nor withdraw approval to any gratuity fund unless he has given the trustees of that fund a reasonable opportunity of being heard in the matter.</p>
+<p class="tx"><b>Conditions for approval.</b></p>
+<p class="tx"><b>3. </b>In order that a gratuity fund may receive and retain approval, it shall satisfy the conditions set out below and any other conditions which the Board may, by rules, prescribe—</p>
+<p class="indent1">(<i>a</i>)	the fund shall be a fund established under an irrevocable trust in connection with a trade or undertaking carried on in India, and not less than ninety per cent of the employees shall be employed in India ;</p>
+<p class="indent1">(<i>b</i>)	the fund shall have for its sole purpose the provision of a gratuity to employees in the trade or undertaking on their retirement at or after a specified age or on their becoming incapacitated prior to such retirement or on termination of their employment after a minimum period of service specified in the rules of the fund or to the widows, children or dependants of such employees on their death;</p>
+<p class="indent1">(<i>c</i>)	the employer in the trade or undertaking shall be a contributor to the fund; and</p>
+<p class="indent1">(<i>d</i>)	all benefits granted by the fund shall be payable only in India.</p>
+<p class="tx"><b>Application for approval.</b></p>
+<p class="tx"><b>4. </b>(1) An application for approval of a gratuity fund shall be made in writing by the trustees of the fund to the Assessing Officer by whom the employer is assessable and shall be accompanied by a copy of the instrument under which the fund is established and by two copies of the rules and, where the fund has been in existence during any year or years prior to the financial year in which the application for approval is made, also two copies of the accounts of the fund relating to such prior year or years (not being more than three years immediately preceding the year in which the said application is made) for which such accounts have been made up, but the <sup>
+<a href="javascript:ShowFootnote('ftn58_sch_4');">58</a></sup>[Principal Chief Commissioner or] Chief Commissioner or <sup>
+<a href="javascript:ShowFootnote('ftn58_sch_4');">58</a></sup>[Principal Commissioner or] Commissioner may require such further information to be supplied as he thinks proper.</p>
+<p class="tx">(2) If any alteration in the rules, constitution, objects or conditions of the fund is made at any time after the date of the application for approval, the trustees of the fund shall forthwith communicate such alterations to the Assessing Officer mentioned in sub-rule (1), and in default of such communication, any approval given shall, unless the <sup>
+<a href="javascript:ShowFootnote('ftn58_sch_4');">58</a></sup>[Principal Chief Commissioner or] Chief Commissioner or <sup>
+<a href="javascript:ShowFootnote('ftn58_sch_4');">58</a></sup>[Principal Commissioner or] Commissioner otherwise orders, be deemed to have been withdrawn from the date on which the alteration took effect.</p>
+<p class="tx"><b>Gratuity deemed to be salary.</b></p>
+<p class="tx"><b>5. </b>Where any gratuity is paid to an employee during his lifetime, the gratuity shall be treated as salary paid to the employee for the purposes of this Act.</p>
+<p class="tx"><b>Liability of trustees on cessation of approval.</b></p>
+<p class="tx"><b>6. </b>If a gratuity fund for any reason ceases to be an approved gratuity fund, the trustees of the fund shall nevertheless remain liable to tax on any gratuity paid to any employee.</p>
+<p class="tx"><b>Contributions by employer, when deemed to be income of employer.</b></p>
+<p class="tx"><b>7. </b>Where any contributions by an employer (including the interest thereon, if any) are repaid to the employer, the amount so repaid shall be deemed for the purposes of income-tax to be the income of the employer of the previous year in which they are so repaid.</p>
+<p class="tx"><b>Appeals.</b></p>
+<p class="tx"><b>8. </b>(1) An employer objecting to an order of the <sup>
+<a href="javascript:ShowFootnote('ftn58_sch_4');">58</a></sup>[Principal Chief Commissioner or] Chief Commissioner or <sup>
+<a href="javascript:ShowFootnote('ftn58_sch_4');">58</a></sup>[Principal Commissioner or] Commissioner refusing to accord approval to a gratuity fund or an order withdrawing such approval may appeal, within sixty days of such order, to the Board.</p>
+<p class="tx">(2) The appeal shall be in such form and shall be verified in such manner and shall be subject to the payment of such fee as may be prescribed.<sup><a href="javascript:ShowFootnote('ftn59_sch_4');">59</a></sup></p>
+<p class="tx"><b>Particulars to be furnished in respect of gratuity funds.</b></p>
+<p class="tx"><b>8A. </b>The trustees of an approved gratuity fund and any employer who contributes to an approved gratuity fund shall, when required by notice from the Assessing Officer, furnish within such period, not being less than twenty-one days from the date of the notice, as may be specified in the notice, such return, statement, particulars or information, as the Assessing Officer may require.</p>
+<p class="tx"><b>Provisions relating to rules.</b></p>
+<p class="tx"><b>9.</b>	(1) In addition to any power conferred in this Part, the Board may make rules—</p>
+<p class="indent1">(<i>a</i>)	prescribing the statements and other information to be submitted along with an application for approval;</p>
+<p class="indent1">(<i>b</i>)	limiting the ordinary annual and other contributions of an employer to the fund ;</p>
+<p class="indent1" style="text-indent: -9mm">(<i>bb</i>)	regulating the investment or deposit of the moneys of an approved gratuity fund :</p>
+<p class="indent1" style="text-indent: 0"><b>Provided</b> that no rule made under this clause shall require the investment of more than fifty per cent of the moneys of such fund in Government securities as defined in section 2 of the Public Debt Act, 1944 (18 of 1944) ;</p>
+<p class="indent1">(<i>c</i>)	providing for the assessment by way of penalty of any consideration received by an employee for an assignment of, or the creation of a charge upon, his beneficial interest in an approved gratuity fund ;</p>
+<p class="indent1">(<i>d</i>)	providing for the withdrawal of the approval in the case of a fund which ceases to satisfy the requirements of this Part or the rules made thereunder ; and</p>
+<p class="indent1">(<i>e</i>)	generally, to carry out the purposes of this Part and to secure such further control over the approval of gratuity funds and the administration of gratuity funds as it may deem requisite.</p>
+<p class="tx">(2) All rules made under this Part shall be subject to the provisions of 
+<a href="javascript:ShowMainContent('Act', 'CMSID', '102120000000058684', '');">section 296</a>.</p>
+
+
+<div id="ftn36_sch_4" class="footprint" style="display:none">
+<div>
+
+
+
+
+
+
+
+
+<p class="indent1A"><i>36.</i>	<i>See</i> rules 67 to 81 and Form Nos. 40A, 40B, 40C, 41 and 42.</p>
+
+</div>
+</div><div id="ftn37_sch_4" class="footprint" style="display:none">
+<div>
+
+
+
+
+
+
+
+
+<p class="indent1A"><i>37.</i>	"88(2)(<i>vi</i>)" should now be substituted for "87(1)(<i>d</i>)".</p>
+
+</div>
+</div><div id="ftn38_sch_4" class="footprint" style="display:none">
+<div>
+
+
+
+
+
+
+
+
+<p class="indent1A">	<i>38.	</i>Ins. by Act No. 25 of 2014 (w.r.e.f. 1-6-2013).</p>
+
+</div>
+</div><div id="ftn39_sch_4" class="footprint" style="display:none">
+<div>
+
+
+
+
+
+
+
+
+<p class="indent1A"><i>39.	</i>Ins. by Act No. 25 of 2014 (w.r.e.f. 1-6-2013).</p>
+
+</div>
+</div><div id="ftn40_sch_4" class="footprint" style="display:none">
+<div>
+
+
+
+
+
+
+
+
+<p class="indent1A"><i>40.	</i>Ins. by Act No. 25 of 2014 (w.r.e.f. 1-6-2013).</p>
+
+</div>
+</div><div id="ftn41_sch_4" class="footprint" style="display:none">
+<div>
+
+
+
+
+
+
+
+
+<p class="indent1A"><i>41.</i>	<i>See</i> rule 75.</p>
+
+</div>
+</div><div id="ftn42_sch_4" class="footprint" style="display:none">
+<div>
+
+
+
+
+
+
+
+
+<p class="indent1A"><i>42.	</i>Ins. by Act No. 25 of 2014 (w.r.e.f. 1-6-2013).</p>
+
+</div>
+</div><div id="ftn43_sch_4" class="footprint" style="display:none">
+<div>
+
+
+
+
+
+
+
+
+<p class="indent1A"><i>43.	</i>Italicised word shall be ins. by Act No. 28 of 2016 (w.e.f. <b>1-4-2017)</b>.</p>
+
+</div>
+</div><div id="ftn44_sch_4" class="footprint" style="display:none">
+<div>
+
+
+
+
+
+
+
+
+<p class="indent1A"><i>44.	</i>Ins. by Act No. 25 of 2014 (w.r.e.f. 1-6-2013).</p>
+
+</div>
+</div><div id="ftn45_sch_4" class="footprint" style="display:none">
+<div>
+
+
+
+
+
+
+
+
+<p class="indent1A"><i>45.	</i>Ins. by Act No. 25 of 2014 (w.r.e.f. 1-6-2013).</p>
+
+</div>
+</div><div id="ftn46_sch_4" class="footprint" style="display:none">
+<div>
+
+
+
+
+
+
+
+
+<p class="indent1A"><i>46.</i>	<i>See</i> rules 67 to 81.</p>
+
+</div>
+</div><div id="ftn47_sch_4" class="footprint" style="display:none">
+<div>
+
+
+
+
+
+
+
+
+<p class="indent1A"><i>47.</i>	<i>See</i> rules 82 to 97 and Form No. 43 for form of appeal.</p>
+
+</div>
+</div><div id="ftn48_sch_4" class="footprint" style="display:none">
+<div>
+
+
+
+
+
+
+
+
+<p class="indent1A"><i>48.</i>	"88(2)(<i>vii</i>)" should now be substituted for "87(1)(<i>e</i>)".</p>
+
+</div>
+</div><div id="ftn49_sch_4" class="footprint" style="display:none">
+<div>
+
+
+
+
+
+
+
+
+<p class="indent1A"><i>49.	</i>Ins. by Act No. 25 of 2014 (w.r.e.f. 1-6-2013).</p>
+
+</div>
+</div><div id="ftn50_sch_4" class="footprint" style="display:none">
+<div>
+
+
+
+
+
+
+
+
+<p class="indent1A"><i>50.	</i>Ins. by Act No. 25 of 2014 (w.r.e.f. 1-6-2013).</p>
+
+</div>
+</div><div id="ftn51_sch_4" class="footprint" style="display:none">
+<div>
+
+
+
+
+
+
+
+
+<p class="indent1A">	<i>51.	</i>Ins. by Act No. 25 of 2014 (w.r.e.f. 1-6-2013).</p>
+
+</div>
+</div><div id="ftn52_sch_4" class="footprint" style="display:none">
+<div>
+
+
+
+
+
+
+
+
+<p class="indent1A"><i>52.	See</i> rule 33 and Form No. 22.</p>
+
+</div>
+</div><div id="ftn53_sch_4" class="footprint" style="display:none">
+<div>
+
+
+
+
+
+
+
+
+<p class="indent1A"><i>53.	</i>Ins. by Act No. 25 of 2014 (w.r.e.f. 1-6-2013).</p>
+
+</div>
+</div><div id="ftn54_sch_4" class="footprint" style="display:none">
+<div>
+
+
+
+
+
+
+
+
+<p class="indent1A"><i>54.</i>	<i>See</i> rule 97 and Form No. 43.</p>
+
+</div>
+</div><div id="ftn55_sch_4" class="footprint" style="display:none">
+<div>
+
+
+
+
+
+
+
+
+<p class="indent1A"><i>55.</i>	<i>See</i> rules 98 to 111 and Form No. 44 for form of appeal.</p>
+
+</div>
+</div><div id="ftn56_sch_4" class="footprint" style="display:none">
+<div>
+
+
+
+
+
+
+
+
+<p class="indent1A"><i>56.	</i>Ins. by Act No. 25 of 2014 (w.r.e.f. 1-6-2013).</p>
+
+</div>
+</div><div id="ftn57_sch_4" class="footprint" style="display:none">
+<div>
+
+
+
+
+
+
+
+
+<p class="indent1A"><i>57.	</i>Ins. by Act No. 25 of 2014 (w.r.e.f. 1-6-2013).</p>
+
+</div>
+</div><div id="ftn58_sch_4" class="footprint" style="display:none">
+<div>
+
+
+
+
+
+
+
+
+<p class="indent1A"><i>58.	</i>Ins. by Act No. 25 of 2014 (w.r.e.f. 1-6-2013).</p>
+
+</div>
+</div><div id="ftn59_sch_4" class="footprint" style="display:none">
+<div>
+
+
+
+
+
+
+
+
+<p class="indent1A"><i>59.</i>	<i>See</i> rule 111 and Form No. 44.</p>
+
+</div>
+</div></div>
+        <div id="dvFooter" class="viewerFooter"></div>
+    </div>
+    
+      
+    <a id="ShowRelatedDocumentLinksPopup" class="show_linked_data" href="javascript:void(0);" style="" aria-label="102120000000058691">
+        Show Related Rules and Contents
+    </a>
+      
+    <input type="hidden" name="ctl00$PlaceHolderMain$hddnReleaseDate" id="ctl00_PlaceHolderMain_hddnReleaseDate" value="08/15/2014" />        
+
+	
+</div>
+</div>
+<div id="DeltaFormDigest">
+	
+	
+		
+	
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</div>
+		</div>
+		</div>
+
+<script type="text/javascript">
+//&lt;![CDATA[
+var Page_Validators =  new Array(document.getElementById("ctl00_PlaceHolderMain_MailerControl_rfvtxtTo"), document.getElementById("ctl00_PlaceHolderMain_MailerControl_revtxtEmail"), document.getElementById("ctl00_PlaceHolderMain_MailerControl_rfvYourName"), document.getElementById("ctl00_PlaceHolderMain_MailerControl_RequiredFieldValidator1"), document.getElementById("ctl00_PlaceHolderMain_MailerControl_RegularExpressionValidator1"));
+//]]&gt;
+</script>
+
+<script type="text/javascript">
+//&lt;![CDATA[
+var ctl00_PlaceHolderMain_MailerControl_rfvtxtTo = document.all ? document.all["ctl00_PlaceHolderMain_MailerControl_rfvtxtTo"] : document.getElementById("ctl00_PlaceHolderMain_MailerControl_rfvtxtTo");
+ctl00_PlaceHolderMain_MailerControl_rfvtxtTo.controltovalidate = "ctl00_PlaceHolderMain_MailerControl_txtTo";
+ctl00_PlaceHolderMain_MailerControl_rfvtxtTo.focusOnError = "t";
+ctl00_PlaceHolderMain_MailerControl_rfvtxtTo.errormessage = "Please Enter Receiver Email.";
+ctl00_PlaceHolderMain_MailerControl_rfvtxtTo.display = "Dynamic";
+ctl00_PlaceHolderMain_MailerControl_rfvtxtTo.validationGroup = "SendMailValidation";
+ctl00_PlaceHolderMain_MailerControl_rfvtxtTo.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_PlaceHolderMain_MailerControl_rfvtxtTo.initialvalue = "";
+var ctl00_PlaceHolderMain_MailerControl_revtxtEmail = document.all ? document.all["ctl00_PlaceHolderMain_MailerControl_revtxtEmail"] : document.getElementById("ctl00_PlaceHolderMain_MailerControl_revtxtEmail");
+ctl00_PlaceHolderMain_MailerControl_revtxtEmail.controltovalidate = "ctl00_PlaceHolderMain_MailerControl_txtTo";
+ctl00_PlaceHolderMain_MailerControl_revtxtEmail.focusOnError = "t";
+ctl00_PlaceHolderMain_MailerControl_revtxtEmail.errormessage = "Please Enter valid Email.";
+ctl00_PlaceHolderMain_MailerControl_revtxtEmail.display = "Dynamic";
+ctl00_PlaceHolderMain_MailerControl_revtxtEmail.validationGroup = "SendMailValidation";
+ctl00_PlaceHolderMain_MailerControl_revtxtEmail.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+ctl00_PlaceHolderMain_MailerControl_revtxtEmail.validationexpression = "\\w+([-+.\']\\w+)*@\\w+([-.]\\w+)*\\.\\w+([-.]\\w+)*";
+var ctl00_PlaceHolderMain_MailerControl_rfvYourName = document.all ? document.all["ctl00_PlaceHolderMain_MailerControl_rfvYourName"] : document.getElementById("ctl00_PlaceHolderMain_MailerControl_rfvYourName");
+ctl00_PlaceHolderMain_MailerControl_rfvYourName.controltovalidate = "ctl00_PlaceHolderMain_MailerControl_txtName";
+ctl00_PlaceHolderMain_MailerControl_rfvYourName.focusOnError = "t";
+ctl00_PlaceHolderMain_MailerControl_rfvYourName.errormessage = "Please Enter your Name.";
+ctl00_PlaceHolderMain_MailerControl_rfvYourName.display = "Dynamic";
+ctl00_PlaceHolderMain_MailerControl_rfvYourName.validationGroup = "SendMailValidation";
+ctl00_PlaceHolderMain_MailerControl_rfvYourName.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_PlaceHolderMain_MailerControl_rfvYourName.initialvalue = "";
+var ctl00_PlaceHolderMain_MailerControl_RequiredFieldValidator1 = document.all ? document.all["ctl00_PlaceHolderMain_MailerControl_RequiredFieldValidator1"] : document.getElementById("ctl00_PlaceHolderMain_MailerControl_RequiredFieldValidator1");
+ctl00_PlaceHolderMain_MailerControl_RequiredFieldValidator1.controltovalidate = "ctl00_PlaceHolderMain_MailerControl_txtSenderEmail";
+ctl00_PlaceHolderMain_MailerControl_RequiredFieldValidator1.focusOnError = "t";
+ctl00_PlaceHolderMain_MailerControl_RequiredFieldValidator1.errormessage = "Please Enter your Email.";
+ctl00_PlaceHolderMain_MailerControl_RequiredFieldValidator1.display = "Dynamic";
+ctl00_PlaceHolderMain_MailerControl_RequiredFieldValidator1.validationGroup = "SendMailValidation";
+ctl00_PlaceHolderMain_MailerControl_RequiredFieldValidator1.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_PlaceHolderMain_MailerControl_RequiredFieldValidator1.initialvalue = "";
+var ctl00_PlaceHolderMain_MailerControl_RegularExpressionValidator1 = document.all ? document.all["ctl00_PlaceHolderMain_MailerControl_RegularExpressionValidator1"] : document.getElementById("ctl00_PlaceHolderMain_MailerControl_RegularExpressionValidator1");
+ctl00_PlaceHolderMain_MailerControl_RegularExpressionValidator1.controltovalidate = "ctl00_PlaceHolderMain_MailerControl_txtSenderEmail";
+ctl00_PlaceHolderMain_MailerControl_RegularExpressionValidator1.focusOnError = "t";
+ctl00_PlaceHolderMain_MailerControl_RegularExpressionValidator1.errormessage = "Please Enter valid Email.";
+ctl00_PlaceHolderMain_MailerControl_RegularExpressionValidator1.display = "Dynamic";
+ctl00_PlaceHolderMain_MailerControl_RegularExpressionValidator1.validationGroup = "SendMailValidation";
+ctl00_PlaceHolderMain_MailerControl_RegularExpressionValidator1.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+ctl00_PlaceHolderMain_MailerControl_RegularExpressionValidator1.validationexpression = "\\w+([-+.\']\\w+)*@\\w+([-.]\\w+)*\\.\\w+([-.]\\w+)*";
+//]]&gt;
+</script>
+
+
+<script type="text/javascript">
+//&lt;![CDATA[
+function loadMDN2() { EnsureScript('MDN.js', typeof(loadFilterFn), null); }
+function loadMDN1() { ExecuteOrDelayUntilScriptLoaded(loadMDN2, 'sp.ribbon.js'); }
+_spBodyOnLoadFunctionNames.push('loadMDN1');
+function _spNavigateHierarchyEx(nodeDiv, dataSourceId, dataPath, url, listInContext, type, additionalQString) {
+    CoreInvoke('SetAdditionalNavigateHierarchyQString', additionalQString);
+    g_originalSPNavigateFunc(nodeDiv, dataSourceId, dataPath, url, listInContext, type);
+}
+
+g_originalSPNavigateFunc = _spNavigateHierarchy;
+_spNavigateHierarchy = _spNavigateHierarchyEx;
+var _fV4UI = true;var _fV4UI = true;var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';var _spWebPermMasks = {High:16,Low:200769};var slNavUrl = '\u002f';_spBodyOnLoadFunctionNames.push('_cUpdonetidProjectPropertyTitleGraphic');function _cUpdonetidProjectPropertyTitleGraphic(){var myd = null; if (typeof(dataonetidProjectPropertyTitleGraphic) != 'undefined') {myd = dataonetidProjectPropertyTitleGraphic;} var myc = document.getElementById('ctl00_onetidProjectPropertyTitleGraphic');_cUpdconetidProjectPropertyTitleGraphic(myd, myc);}function _cUpdconetidProjectPropertyTitleGraphic(data, ctrl){ctrl.href = slNavUrl;}function _cUpdonetidHeadbnnr2(){var myd = null; if (typeof(dataonetidHeadbnnr2) != 'undefined') {myd = dataonetidHeadbnnr2;} var myc = document.getElementById('ctl00_onetidHeadbnnr2');_cUpdconetidHeadbnnr2(myd, myc);}function _cUpdconetidHeadbnnr2(data, ctrl){SiteLogoImagePageUpdate(ctrl, data);}
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        var _spFormDigestRefreshInterval = 1440000;
+            ExecuteOrDelayUntilScriptLoaded(
+                function() 
+                {                    
+                    Srch.ScriptApplicationManager.get_current().states = {"browserLanguage":2057,"webUILanguageName":"en-US","webDefaultLanguageName":"en-US","contextUrl":"http://www.incometaxindia.gov.in","contextTitle":"Income Tax Department","supportedLanguages":[{"id":1025,"label":"Arabic"},{"id":1093,"label":"Bengali"},{"id":1026,"label":"Bulgarian"},{"id":1027,"label":"Catalan"},{"id":2052,"label":"Chinese (Simplified)"},{"id":1028,"label":"Chinese (Traditional)"},{"id":1050,"label":"Croatian"},{"id":1029,"label":"Czech"},{"id":1030,"label":"Danish"},{"id":1043,"label":"Dutch"},{"id":1033,"label":"English"},{"id":1035,"label":"Finnish"},{"id":1036,"label":"French"},{"id":1031,"label":"German"},{"id":1032,"label":"Greek"},{"id":1095,"label":"Gujarati"},{"id":1037,"label":"Hebrew"},{"id":1081,"label":"Hindi"},{"id":1038,"label":"Hungarian"},{"id":1039,"label":"Icelandic"},{"id":1057,"label":"Indonesian"},{"id":1040,"label":"Italian"},{"id":1041,"label":"Japanese"},{"id":1099,"label":"Kannada"},{"id":1042,"label":"Korean"},{"id":1062,"label":"Latvian"},{"id":1063,"label":"Lithuanian"},{"id":1086,"label":"Malay"},{"id":1100,"label":"Malayalam"},{"id":1102,"label":"Marathi"},{"id":1044,"label":"Norwegian"},{"id":1045,"label":"Polish"},{"id":1046,"label":"Portuguese (Brazil)"},{"id":2070,"label":"Portuguese (Portugal)"},{"id":1094,"label":"Punjabi"},{"id":1048,"label":"Romanian"},{"id":1049,"label":"Russian"},{"id":3098,"label":"Serbian (Cyrillic)"},{"id":2074,"label":"Serbian (Latin)"},{"id":1051,"label":"Slovak"},{"id":1060,"label":"Slovenian"},{"id":3082,"label":"Spanish (Spain)"},{"id":2058,"label":"Spanish (Mexico)"},{"id":1053,"label":"Swedish"},{"id":1097,"label":"Tamil"},{"id":1098,"label":"Telugu"},{"id":1054,"label":"Thai"},{"id":1055,"label":"Turkish"},{"id":1058,"label":"Ukrainian"},{"id":1056,"label":"Urdu"},{"id":1066,"label":"Vietnamese"}],"navigationNodes":[{"id":1001,"name":"Everything","url":"{searchcenterurl}/results.aspx","promptString":"Search everything"},{"id":1002,"name":"People","url":"{searchcenterurl}/peopleresults.aspx","promptString":"Search people"},{"id":1003,"name":"Conversations","url":"{searchcenterurl}/conversationresults.aspx","promptString":"Search conversations"},{"id":0,"name":"This Site","url":"~site/_layouts/15/osssearchresults.aspx?u={contexturl}","promptString":"Search this site"}],"searchCenterUrl":"http://search.incometaxindia.gov.in/pages","showAdminDetails":false,"defaultPagesListName":"Pages","isSPFSKU":false,"userAdvancedLanguageSettingsUrl":"http://my.incometaxindia.gov.in:80/_layouts/15/EditProfile.aspx?Section=LanguageAndRegion\u0026UserSettingsProvider=234bf0ed%2D70db%2D4158%2Da332%2D4dfd683b4148\u0026ReturnUrl=http%3A%2F%2Fwww%2Eincometaxindia%2Egov%2Ein%2F%5Flayouts%2F15%2Fdit%2FPages%2Fviewer%2Easpx%3Fgrp%3DAct%26cname%3DCMSID%26cval%3D102120000000058691%26k%3Dundefined%26IsDlg%3D0\u0026ShowAdvLang=1","defaultQueryProperties":{"culture":1033,"uiLanguage":1033,"summaryLength":180,"desiredSnippetLength":90,"enableStemming":true,"enablePhonetic":false,"enableNicknames":false,"trimDuplicates":true,"bypassResultTypes":false,"enableInterleaving":true,"enableQueryRules":true,"processBestBets":true,"enableOrderingHitHighlightedProperty":false,"hitHighlightedMultivaluePropertyLimit":-1,"processPersonalFavorites":true}};
+                    Srch.U.trace(null, 'SerializeToClient', 'ScriptApplicationManager state initialized.');
+                }, 'Search.ClientControls.js');var g_clientIdDeltaPlaceHolderMain = "DeltaPlaceHolderMain";
+var g_clientIdDeltaPlaceHolderPageTitleInTitleArea = "DeltaPlaceHolderPageTitleInTitleArea";
+var g_clientIdDeltaPlaceHolderUtilityContent = "DeltaPlaceHolderUtilityContent";
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+
+var g_commandUIHandlers = {"name":"CommandHandlers","attrs":{},"children":[]};
+g_QuickLaunchControlIds.push("zz4_TopNavigationMenu");_spBodyOnLoadFunctionNames.push('QuickLaunchInitDroppable'); var g_zz4_TopNavigationMenu = null; function init_zz4_TopNavigationMenu() { if (g_zz4_TopNavigationMenu == null) g_zz4_TopNavigationMenu = $create(SP.UI.AspMenu, null, null, null, $get('zz4_TopNavigationMenu')); } ExecuteOrDelayUntilScriptLoaded(init_zz4_TopNavigationMenu, 'SP.Core.js');
+
+                    ExecuteOrDelayUntilScriptLoaded(
+                        function() 
+                        {
+                            if ($isNull($find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr')))
+                            {
+                                var sb = $create(Srch.SearchBox, {"delayLoadTemplateScripts":true,"messages":[],"queryGroupNames":["MasterPage"],"renderTemplateId":"~sitecollection/_catalogs/masterpage/Display Templates/Search/Control_SearchBox_Compact.js","resultsPageAddress":" http://search.incometaxindia.gov.in/pages/results.aspx","serverInitialRender":true,"showDataErrors":true,"states":{},"tryInplaceQuery":false}, null, null, $get("ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr"));
+                                sb.activate('Search...', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sbox', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sboxdiv', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_NavButton', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_AutoCompList', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_NavDropdownList', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_SearchLink', 'ms-srch-sbprogress', '');
+                            }
+                        }, 'Search.ClientControls.js');g_QuickLaunchControlIds.push("zz6_V4QuickLaunchMenu");_spBodyOnLoadFunctionNames.push('QuickLaunchInitDroppable'); var g_zz6_V4QuickLaunchMenu = null; function init_zz6_V4QuickLaunchMenu() { if (g_zz6_V4QuickLaunchMenu == null) g_zz6_V4QuickLaunchMenu = $create(SP.UI.AspMenu, null, null, null, $get('zz6_V4QuickLaunchMenu')); } ExecuteOrDelayUntilScriptLoaded(init_zz6_V4QuickLaunchMenu, 'SP.Core.js');
+
+document.getElementById('ctl00_PlaceHolderMain_MailerControl_rfvtxtTo').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_PlaceHolderMain_MailerControl_rfvtxtTo'));
+}
+
+document.getElementById('ctl00_PlaceHolderMain_MailerControl_revtxtEmail').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_PlaceHolderMain_MailerControl_revtxtEmail'));
+}
+
+document.getElementById('ctl00_PlaceHolderMain_MailerControl_rfvYourName').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_PlaceHolderMain_MailerControl_rfvYourName'));
+}
+
+document.getElementById('ctl00_PlaceHolderMain_MailerControl_RequiredFieldValidator1').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_PlaceHolderMain_MailerControl_RequiredFieldValidator1'));
+}
+
+document.getElementById('ctl00_PlaceHolderMain_MailerControl_RegularExpressionValidator1').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_PlaceHolderMain_MailerControl_RegularExpressionValidator1'));
+}
+//]]&gt;
+</script>
+</form>
+	<span id="DeltaPlaceHolderUtilityContent">
+		
+	</span>
+	<script type="text/javascript">// &lt;![CDATA[ 
+
+
+		var g_Workspace = "s4-workspace";
+	// ]]&gt;
+</script>
+
+
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></html>
